@@ -1,0 +1,2997 @@
+[2022-07-21 10:46:20] WARNING (root/Thread-2) The OGB package is out of date. Your version is 1.3.2, while the latest version is 1.3.3.
+(AD train epochs:0)
+(T) | Epoch=0001, loss_hard=-9.8426
+(AD train epochs:0)
+(T) | Epoch=0002, loss_hard=-10.0757
+(AD train epochs:0)
+(T) | Epoch=0003, loss_hard=-9.9476
+(T) | Epoch=0004, loss_hard=-8.9231
+(T) | Epoch=0005, loss_hard=-8.9730
+(T) | Epoch=0006, loss_hard=-8.8340
+(T) | Epoch=0007, loss_hard=-8.7703
+(T) | Epoch=0008, loss_hard=-8.8384
+(T) | Epoch=0009, loss_hard=-8.9320
+(T) | Epoch=0010, loss_hard=-8.9884
+time cost 14.183983087539673 s
+(T) | Epoch=0001, loss=10.1303, loss_hard=-8.9563
+time cost 14.47420883178711 s
+(T) | Epoch=0002, loss=10.0221, loss_hard=-8.8040
+time cost 13.889885187149048 s
+(T) | Epoch=0003, loss=9.8573, loss_hard=-8.2089
+(AD train epochs:7)
+time cost 12.26268982887268 s
+(T) | Epoch=0004, loss=9.2111, loss_hard=-8.5232
+(AD train epochs:0)
+time cost 2.2782866954803467 s
+(T) | Epoch=0005, loss=9.5465, loss_hard=-8.4284
+(AD train epochs:0)
+time cost 2.007467746734619 s
+(T) | Epoch=0006, loss=9.3995, loss_hard=-8.2286
+(AD train epochs:0)
+time cost 2.1064529418945312 s
+(T) | Epoch=0007, loss=9.2299, loss_hard=-8.2405
+(AD train epochs:0)
+time cost 2.4404990673065186 s
+(T) | Epoch=0008, loss=9.2214, loss_hard=-8.1436
+(AD train epochs:0)
+time cost 2.5447020530700684 s
+(T) | Epoch=0009, loss=9.1297, loss_hard=-8.0917
+(AD train epochs:0)
+time cost 2.3713443279266357 s
+(T) | Epoch=0010, loss=9.1058, loss_hard=-8.1380
+(AD train epochs:0)
+time cost 2.031700372695923 s
+(T) | Epoch=0011, loss=9.0893, loss_hard=-8.0615
+(AD train epochs:0)
+time cost 1.9705462455749512 s
+(T) | Epoch=0012, loss=8.9929, loss_hard=-7.9440
+(AD train epochs:0)
+time cost 2.0281014442443848 s
+(T) | Epoch=0013, loss=8.9144, loss_hard=-7.8961
+(AD train epochs:0)
+time cost 1.9701769351959229 s
+(T) | Epoch=0014, loss=8.8206, loss_hard=-7.7833
+(AD train epochs:0)
+time cost 2.020963668823242 s
+(T) | Epoch=0015, loss=8.7694, loss_hard=-7.7612
+(AD train epochs:0)
+time cost 2.040347099304199 s
+(T) | Epoch=0016, loss=8.7575, loss_hard=-7.7808
+(AD train epochs:0)
+time cost 2.0201141834259033 s
+(T) | Epoch=0017, loss=8.7223, loss_hard=-7.7551
+(AD train epochs:0)
+time cost 1.9568994045257568 s
+(T) | Epoch=0018, loss=8.7569, loss_hard=-7.7985
+(AD train epochs:0)
+time cost 2.0627357959747314 s
+(T) | Epoch=0019, loss=8.7863, loss_hard=-7.7382
+(AD train epochs:0)
+time cost 2.03135347366333 s
+(T) | Epoch=0020, loss=8.7408, loss_hard=-7.7091
+(AD train epochs:0)
+time cost 2.062486171722412 s
+(T) | Epoch=0021, loss=8.7084, loss_hard=-7.6558
+(AD train epochs:0)
+time cost 2.0809829235076904 s
+(T) | Epoch=0022, loss=8.6276, loss_hard=-7.6684
+(AD train epochs:0)
+time cost 2.1815221309661865 s
+(T) | Epoch=0023, loss=8.5636, loss_hard=-7.7010
+(AD train epochs:0)
+time cost 2.213035821914673 s
+(T) | Epoch=0024, loss=9.1082, loss_hard=-7.6692
+(AD train epochs:0)
+time cost 2.1741976737976074 s
+(T) | Epoch=0025, loss=8.6481, loss_hard=-7.7457
+(AD train epochs:0)
+time cost 2.1500656604766846 s
+(T) | Epoch=0026, loss=8.6215, loss_hard=-7.7530
+(AD train epochs:0)
+time cost 2.3576419353485107 s
+(T) | Epoch=0027, loss=8.7506, loss_hard=-7.6183
+(AD train epochs:0)
+time cost 2.3718700408935547 s
+(T) | Epoch=0028, loss=8.6296, loss_hard=-7.5902
+(AD train epochs:0)
+time cost 2.1955032348632812 s
+(T) | Epoch=0029, loss=8.6923, loss_hard=-7.6454
+(AD train epochs:0)
+time cost 2.15022873878479 s
+(T) | Epoch=0030, loss=8.5780, loss_hard=-7.5903
+(AD train epochs:0)
+time cost 2.1614692211151123 s
+(T) | Epoch=0031, loss=8.5901, loss_hard=-7.5831
+(AD train epochs:0)
+time cost 2.0803825855255127 s
+(T) | Epoch=0032, loss=8.6608, loss_hard=-7.5471
+(AD train epochs:0)
+time cost 1.8913795948028564 s
+(T) | Epoch=0033, loss=8.5609, loss_hard=-7.5293
+(AD train epochs:0)
+time cost 2.162019729614258 s
+(T) | Epoch=0034, loss=8.5391, loss_hard=-7.5331
+(AD train epochs:0)
+time cost 2.1116485595703125 s
+(T) | Epoch=0035, loss=8.5658, loss_hard=-7.5415
+(AD train epochs:0)
+time cost 1.8848645687103271 s
+(T) | Epoch=0036, loss=8.5234, loss_hard=-7.5216
+time cost 14.995003938674927 s
+(T) | Epoch=0037, loss=8.5004, loss_hard=-7.3577
+time cost 15.1345694065094 s
+(T) | Epoch=0038, loss=8.5173, loss_hard=-7.3308
+time cost 14.077267169952393 s
+(T) | Epoch=0039, loss=8.5172, loss_hard=-7.3635
+time cost 15.479063510894775 s
+(T) | Epoch=0040, loss=8.4794, loss_hard=-7.3988
+time cost 14.534391403198242 s
+(T) | Epoch=0041, loss=8.5155, loss_hard=-7.4685
+time cost 15.532148838043213 s
+(T) | Epoch=0042, loss=8.4684, loss_hard=-7.4071
+time cost 15.807133674621582 s
+(T) | Epoch=0043, loss=8.4830, loss_hard=-7.4357
+time cost 14.746604442596436 s
+(T) | Epoch=0044, loss=8.4593, loss_hard=-7.4221
+time cost 15.232178926467896 s
+(T) | Epoch=0045, loss=8.4716, loss_hard=-7.3762
+time cost 15.595705509185791 s
+(T) | Epoch=0046, loss=8.4416, loss_hard=-7.5702
+time cost 14.655219554901123 s
+(T) | Epoch=0047, loss=8.4302, loss_hard=-7.4320
+time cost 15.646777153015137 s
+(T) | Epoch=0048, loss=8.5540, loss_hard=-7.4278
+time cost 15.006455659866333 s
+(T) | Epoch=0049, loss=8.4312, loss_hard=-7.4730
+(AD train epochs:5)
+time cost 8.293237924575806 s
+(T) | Epoch=0050, loss=8.4676, loss_hard=-7.4771
+time cost 15.150139331817627 s
+(T) | Epoch=0051, loss=8.5061, loss_hard=-7.4080
+(AD train epochs:4)
+time cost 8.010989427566528 s
+(T) | Epoch=0052, loss=8.4323, loss_hard=-7.4179
+(AD train epochs:0)
+time cost 1.9931824207305908 s
+(T) | Epoch=0053, loss=8.4043, loss_hard=-7.4178
+(AD train epochs:0)
+time cost 2.000342607498169 s
+(T) | Epoch=0054, loss=8.4466, loss_hard=-7.4854
+(AD train epochs:0)
+time cost 2.0369179248809814 s
+(T) | Epoch=0055, loss=8.4205, loss_hard=-7.3978
+(AD train epochs:0)
+time cost 2.002042293548584 s
+(T) | Epoch=0056, loss=8.4096, loss_hard=-7.3991
+(AD train epochs:0)
+time cost 2.011601686477661 s
+(T) | Epoch=0057, loss=8.4816, loss_hard=-7.4032
+(AD train epochs:0)
+time cost 2.073216199874878 s
+(T) | Epoch=0058, loss=8.3820, loss_hard=-7.4577
+time cost 15.169829607009888 s
+(T) | Epoch=0059, loss=8.3960, loss_hard=-7.4142
+(AD train epochs:6)
+time cost 10.426588535308838 s
+(T) | Epoch=0060, loss=8.4004, loss_hard=-7.3890
+(AD train epochs:0)
+time cost 2.0886454582214355 s
+(T) | Epoch=0061, loss=8.3811, loss_hard=-7.3809
+(AD train epochs:0)
+time cost 2.1078295707702637 s
+(T) | Epoch=0062, loss=8.4224, loss_hard=-7.4109
+(AD train epochs:0)
+time cost 2.0456788539886475 s
+(T) | Epoch=0063, loss=8.4568, loss_hard=-7.3798
+(AD train epochs:0)
+time cost 2.0077319145202637 s
+(T) | Epoch=0064, loss=8.3453, loss_hard=-7.4103
+(AD train epochs:0)
+time cost 1.990849494934082 s
+(T) | Epoch=0065, loss=8.3984, loss_hard=-7.3933
+(AD train epochs:0)
+time cost 1.9717457294464111 s
+(T) | Epoch=0066, loss=8.4032, loss_hard=-7.3689
+(AD train epochs:0)
+time cost 1.9955143928527832 s
+(T) | Epoch=0067, loss=8.3652, loss_hard=-7.3563
+(AD train epochs:0)
+time cost 1.9215457439422607 s
+(T) | Epoch=0068, loss=8.3557, loss_hard=-7.4291
+(AD train epochs:0)
+time cost 2.0093612670898438 s
+(T) | Epoch=0069, loss=8.4662, loss_hard=-7.3603
+(AD train epochs:0)
+time cost 1.9571387767791748 s
+(T) | Epoch=0070, loss=8.3649, loss_hard=-7.3594
+(AD train epochs:0)
+time cost 2.2032368183135986 s
+(T) | Epoch=0071, loss=8.3466, loss_hard=-7.3683
+(AD train epochs:0)
+time cost 2.2378592491149902 s
+(T) | Epoch=0072, loss=8.3585, loss_hard=-7.3658
+(AD train epochs:0)
+time cost 2.1957039833068848 s
+(T) | Epoch=0073, loss=8.3721, loss_hard=-7.3545
+(AD train epochs:0)
+time cost 2.132793664932251 s
+(T) | Epoch=0074, loss=8.3375, loss_hard=-7.3198
+(AD train epochs:0)
+time cost 1.9663355350494385 s
+(T) | Epoch=0075, loss=8.3234, loss_hard=-7.3567
+(AD train epochs:0)
+time cost 2.09967041015625 s
+(T) | Epoch=0076, loss=8.3196, loss_hard=-7.3832
+(AD train epochs:0)
+time cost 2.002688407897949 s
+(T) | Epoch=0077, loss=8.3369, loss_hard=-7.3625
+(AD train epochs:0)
+time cost 2.2193336486816406 s
+(T) | Epoch=0078, loss=8.3279, loss_hard=-7.3335
+(AD train epochs:0)
+time cost 2.5270917415618896 s
+(T) | Epoch=0079, loss=8.3487, loss_hard=-7.3677
+(AD train epochs:0)
+time cost 2.2027463912963867 s
+(T) | Epoch=0080, loss=8.3152, loss_hard=-7.3287
+(AD train epochs:0)
+time cost 2.088463306427002 s
+(T) | Epoch=0081, loss=8.3032, loss_hard=-7.3266
+(AD train epochs:0)
+time cost 1.7669265270233154 s
+(T) | Epoch=0082, loss=8.2927, loss_hard=-7.4238
+(AD train epochs:0)
+time cost 2.1449103355407715 s
+(T) | Epoch=0083, loss=8.2926, loss_hard=-7.3053
+(AD train epochs:0)
+time cost 1.9993717670440674 s
+(T) | Epoch=0084, loss=8.3563, loss_hard=-7.2987
+(AD train epochs:0)
+time cost 1.9617228507995605 s
+(T) | Epoch=0085, loss=8.2797, loss_hard=-7.3243
+(AD train epochs:0)
+time cost 1.961327075958252 s
+(T) | Epoch=0086, loss=8.2949, loss_hard=-7.3172
+(AD train epochs:0)
+time cost 2.002654552459717 s
+(T) | Epoch=0087, loss=8.2655, loss_hard=-7.3026
+(AD train epochs:0)
+time cost 1.8590707778930664 s
+(T) | Epoch=0088, loss=8.2864, loss_hard=-7.2908
+(AD train epochs:0)
+time cost 1.8557837009429932 s
+(T) | Epoch=0089, loss=8.2822, loss_hard=-7.2830
+(AD train epochs:0)
+time cost 1.972998857498169 s
+(T) | Epoch=0090, loss=8.2488, loss_hard=-7.2775
+(AD train epochs:0)
+time cost 1.9640851020812988 s
+(T) | Epoch=0091, loss=8.2649, loss_hard=-7.3238
+(AD train epochs:0)
+time cost 1.8958494663238525 s
+(T) | Epoch=0092, loss=8.2412, loss_hard=-7.2694
+(AD train epochs:0)
+time cost 2.228255033493042 s
+(T) | Epoch=0093, loss=8.2370, loss_hard=-7.2975
+(AD train epochs:0)
+time cost 2.371471881866455 s
+(T) | Epoch=0094, loss=8.2481, loss_hard=-7.2654
+(AD train epochs:0)
+time cost 2.3103203773498535 s
+(T) | Epoch=0095, loss=8.2510, loss_hard=-7.3034
+(AD train epochs:0)
+time cost 2.064680337905884 s
+(T) | Epoch=0096, loss=8.2661, loss_hard=-7.2597
+(AD train epochs:0)
+time cost 2.0391945838928223 s
+(T) | Epoch=0097, loss=8.2464, loss_hard=-7.2464
+(AD train epochs:0)
+time cost 2.256216287612915 s
+(T) | Epoch=0098, loss=8.2877, loss_hard=-7.2782
+(AD train epochs:0)
+time cost 2.3501172065734863 s
+(T) | Epoch=0099, loss=8.2357, loss_hard=-7.2335
+(AD train epochs:0)
+time cost 2.1960813999176025 s
+(T) | Epoch=0100, loss=8.2654, loss_hard=-7.2639
+(AD train epochs:0)
+time cost 2.0119166374206543 s
+(T) | Epoch=0101, loss=8.2367, loss_hard=-7.3027
+(AD train epochs:0)
+time cost 2.001356840133667 s
+(T) | Epoch=0102, loss=8.2080, loss_hard=-7.2384
+(AD train epochs:0)
+time cost 1.9807617664337158 s
+(T) | Epoch=0103, loss=8.2340, loss_hard=-7.2500
+(AD train epochs:0)
+time cost 1.876603603363037 s
+(T) | Epoch=0104, loss=8.1997, loss_hard=-7.2252
+(AD train epochs:0)
+time cost 2.135263204574585 s
+(T) | Epoch=0105, loss=8.2373, loss_hard=-7.2309
+(AD train epochs:0)
+time cost 2.2841506004333496 s
+(T) | Epoch=0106, loss=8.2036, loss_hard=-7.2297
+(AD train epochs:0)
+time cost 2.053684711456299 s
+(T) | Epoch=0107, loss=8.1923, loss_hard=-7.2246
+(AD train epochs:0)
+time cost 2.1030821800231934 s
+(T) | Epoch=0108, loss=8.1938, loss_hard=-7.2317
+(AD train epochs:0)
+time cost 2.0009915828704834 s
+(T) | Epoch=0109, loss=8.2332, loss_hard=-7.2729
+(AD train epochs:0)
+time cost 2.000612258911133 s
+(T) | Epoch=0110, loss=8.2130, loss_hard=-7.3660
+(AD train epochs:0)
+time cost 2.177241802215576 s
+(T) | Epoch=0111, loss=8.2437, loss_hard=-7.2671
+(AD train epochs:0)
+time cost 2.1258020401000977 s
+(T) | Epoch=0112, loss=8.2087, loss_hard=-7.2646
+(AD train epochs:0)
+time cost 2.2828662395477295 s
+(T) | Epoch=0113, loss=8.2420, loss_hard=-7.2403
+(AD train epochs:0)
+time cost 2.0800845623016357 s
+(T) | Epoch=0114, loss=8.1818, loss_hard=-7.2447
+(AD train epochs:0)
+time cost 2.0154941082000732 s
+(T) | Epoch=0115, loss=8.1978, loss_hard=-7.2572
+(AD train epochs:0)
+time cost 2.3174033164978027 s
+(T) | Epoch=0116, loss=8.1793, loss_hard=-7.2555
+(AD train epochs:0)
+time cost 2.239326000213623 s
+(T) | Epoch=0117, loss=8.1830, loss_hard=-7.2455
+(AD train epochs:0)
+time cost 2.1771631240844727 s
+(T) | Epoch=0118, loss=8.2580, loss_hard=-7.2432
+(AD train epochs:0)
+time cost 2.2871453762054443 s
+(T) | Epoch=0119, loss=8.1945, loss_hard=-7.2410
+(AD train epochs:0)
+time cost 2.30472731590271 s
+(T) | Epoch=0120, loss=8.1926, loss_hard=-7.2297
+(AD train epochs:0)
+time cost 2.0567479133605957 s
+(T) | Epoch=0121, loss=8.1983, loss_hard=-7.2301
+(AD train epochs:0)
+time cost 2.1230664253234863 s
+(T) | Epoch=0122, loss=8.1502, loss_hard=-7.2142
+(AD train epochs:0)
+time cost 1.968945026397705 s
+(T) | Epoch=0123, loss=8.1746, loss_hard=-7.2791
+(AD train epochs:0)
+time cost 1.9794893264770508 s
+(T) | Epoch=0124, loss=8.1842, loss_hard=-7.2282
+(AD train epochs:0)
+time cost 2.0528037548065186 s
+(T) | Epoch=0125, loss=8.1872, loss_hard=-7.2356
+(AD train epochs:0)
+time cost 2.0826492309570312 s
+(T) | Epoch=0126, loss=8.1525, loss_hard=-7.2142
+(AD train epochs:0)
+time cost 2.047764778137207 s
+(T) | Epoch=0127, loss=8.1431, loss_hard=-7.2196
+(AD train epochs:0)
+time cost 1.9730589389801025 s
+(T) | Epoch=0128, loss=8.1552, loss_hard=-7.2162
+(AD train epochs:0)
+time cost 2.054577589035034 s
+(T) | Epoch=0129, loss=8.1400, loss_hard=-7.1971
+(AD train epochs:0)
+time cost 2.317803144454956 s
+(T) | Epoch=0130, loss=8.1378, loss_hard=-7.1762
+(AD train epochs:0)
+time cost 2.51800537109375 s
+(T) | Epoch=0131, loss=8.2041, loss_hard=-7.1816
+(AD train epochs:0)
+time cost 2.384061574935913 s
+(T) | Epoch=0132, loss=8.1665, loss_hard=-7.1716
+(AD train epochs:0)
+time cost 2.264899730682373 s
+(T) | Epoch=0133, loss=8.1398, loss_hard=-7.1816
+(AD train epochs:0)
+time cost 1.8367722034454346 s
+(T) | Epoch=0134, loss=8.1807, loss_hard=-7.1872
+(AD train epochs:0)
+time cost 2.56807279586792 s
+(T) | Epoch=0135, loss=8.1557, loss_hard=-7.1909
+(AD train epochs:0)
+time cost 2.268791913986206 s
+(T) | Epoch=0136, loss=8.1584, loss_hard=-7.1573
+(AD train epochs:0)
+time cost 2.444915533065796 s
+(T) | Epoch=0137, loss=8.1155, loss_hard=-7.1790
+(AD train epochs:0)
+time cost 2.049987554550171 s
+(T) | Epoch=0138, loss=8.1449, loss_hard=-7.1789
+(AD train epochs:0)
+time cost 2.155673027038574 s
+(T) | Epoch=0139, loss=8.1391, loss_hard=-7.1760
+(AD train epochs:0)
+time cost 2.1212897300720215 s
+(T) | Epoch=0140, loss=8.1475, loss_hard=-7.1986
+(AD train epochs:0)
+time cost 1.9645752906799316 s
+(T) | Epoch=0141, loss=8.1099, loss_hard=-7.1389
+(AD train epochs:0)
+time cost 1.965453863143921 s
+(T) | Epoch=0142, loss=8.1286, loss_hard=-7.1531
+(AD train epochs:0)
+time cost 1.8389496803283691 s
+(T) | Epoch=0143, loss=8.1160, loss_hard=-7.1584
+(AD train epochs:0)
+time cost 2.0962753295898438 s
+(T) | Epoch=0144, loss=8.1006, loss_hard=-7.1585
+(AD train epochs:0)
+time cost 2.0319907665252686 s
+(T) | Epoch=0145, loss=8.0993, loss_hard=-7.1364
+(AD train epochs:0)
+time cost 2.052201271057129 s
+(T) | Epoch=0146, loss=8.1031, loss_hard=-7.1373
+(AD train epochs:0)
+time cost 2.0305707454681396 s
+(T) | Epoch=0147, loss=8.1612, loss_hard=-7.1146
+(AD train epochs:0)
+time cost 2.2016687393188477 s
+(T) | Epoch=0148, loss=8.0924, loss_hard=-7.1392
+(AD train epochs:0)
+time cost 1.9985198974609375 s
+(T) | Epoch=0149, loss=8.0913, loss_hard=-7.1423
+(AD train epochs:0)
+time cost 2.291046380996704 s
+(T) | Epoch=0150, loss=8.1119, loss_hard=-7.1547
+(AD train epochs:0)
+time cost 2.346637487411499 s
+(T) | Epoch=0151, loss=8.0881, loss_hard=-7.1579
+(AD train epochs:0)
+time cost 2.2757279872894287 s
+(T) | Epoch=0152, loss=8.0683, loss_hard=-7.1180
+(AD train epochs:0)
+time cost 2.291592836380005 s
+(T) | Epoch=0153, loss=8.0860, loss_hard=-7.1123
+(AD train epochs:0)
+time cost 2.38893985748291 s
+(T) | Epoch=0154, loss=8.0868, loss_hard=-7.1369
+(AD train epochs:0)
+time cost 2.405979633331299 s
+(T) | Epoch=0155, loss=8.0772, loss_hard=-7.1247
+(AD train epochs:0)
+time cost 2.377502679824829 s
+(T) | Epoch=0156, loss=8.0830, loss_hard=-7.1220
+(AD train epochs:0)
+time cost 1.9472954273223877 s
+(T) | Epoch=0157, loss=8.0950, loss_hard=-7.1105
+(AD train epochs:0)
+time cost 1.9117906093597412 s
+(T) | Epoch=0158, loss=8.0884, loss_hard=-7.1266
+(AD train epochs:0)
+time cost 2.0850796699523926 s
+(T) | Epoch=0159, loss=8.0851, loss_hard=-7.1008
+(AD train epochs:0)
+time cost 2.0132718086242676 s
+(T) | Epoch=0160, loss=8.0676, loss_hard=-7.0944
+(AD train epochs:0)
+time cost 1.966088056564331 s
+(T) | Epoch=0161, loss=8.1130, loss_hard=-7.0671
+(AD train epochs:0)
+time cost 2.048039436340332 s
+(T) | Epoch=0162, loss=8.0539, loss_hard=-7.0807
+(AD train epochs:0)
+time cost 1.915052890777588 s
+(T) | Epoch=0163, loss=8.1008, loss_hard=-7.1082
+(AD train epochs:0)
+time cost 2.026838779449463 s
+(T) | Epoch=0164, loss=8.0737, loss_hard=-7.0901
+(AD train epochs:0)
+time cost 1.9624238014221191 s
+(T) | Epoch=0165, loss=8.0853, loss_hard=-7.0824
+(AD train epochs:0)
+time cost 2.0421581268310547 s
+(T) | Epoch=0166, loss=8.1265, loss_hard=-7.0553
+(AD train epochs:0)
+time cost 2.6769638061523438 s
+(T) | Epoch=0167, loss=8.0488, loss_hard=-7.0720
+(AD train epochs:0)
+time cost 2.441683292388916 s
+(T) | Epoch=0168, loss=8.0808, loss_hard=-7.1079
+(AD train epochs:0)
+time cost 2.527846336364746 s
+(T) | Epoch=0169, loss=8.0619, loss_hard=-7.0982
+(AD train epochs:0)
+time cost 2.2219014167785645 s
+(T) | Epoch=0170, loss=8.0609, loss_hard=-7.0710
+(AD train epochs:0)
+time cost 2.2634260654449463 s
+(T) | Epoch=0171, loss=8.0415, loss_hard=-7.0686
+(AD train epochs:0)
+time cost 2.3076794147491455 s
+(T) | Epoch=0172, loss=8.0784, loss_hard=-7.0501
+(AD train epochs:0)
+time cost 2.305803060531616 s
+(T) | Epoch=0173, loss=8.0558, loss_hard=-7.1250
+(AD train epochs:0)
+time cost 2.1957921981811523 s
+(T) | Epoch=0174, loss=8.0568, loss_hard=-7.1074
+(AD train epochs:0)
+time cost 2.029585361480713 s
+(T) | Epoch=0175, loss=8.0518, loss_hard=-7.0718
+(AD train epochs:0)
+time cost 2.179673910140991 s
+(T) | Epoch=0176, loss=8.0443, loss_hard=-7.0718
+(AD train epochs:0)
+time cost 2.060540199279785 s
+(T) | Epoch=0177, loss=8.0304, loss_hard=-7.0689
+(AD train epochs:0)
+time cost 2.041640043258667 s
+(T) | Epoch=0178, loss=8.0812, loss_hard=-7.0752
+(AD train epochs:0)
+time cost 2.024853467941284 s
+(T) | Epoch=0179, loss=8.0480, loss_hard=-7.1093
+(AD train epochs:0)
+time cost 2.040621042251587 s
+(T) | Epoch=0180, loss=8.0631, loss_hard=-7.0807
+(AD train epochs:0)
+time cost 1.9776756763458252 s
+(T) | Epoch=0181, loss=8.0414, loss_hard=-7.0983
+(AD train epochs:0)
+time cost 1.9750869274139404 s
+(T) | Epoch=0182, loss=8.0322, loss_hard=-7.0996
+(AD train epochs:0)
+time cost 1.9427924156188965 s
+(T) | Epoch=0183, loss=8.0185, loss_hard=-7.0643
+(AD train epochs:0)
+time cost 2.2232930660247803 s
+(T) | Epoch=0184, loss=8.0621, loss_hard=-7.0697
+(AD train epochs:0)
+time cost 2.264228105545044 s
+(T) | Epoch=0185, loss=8.0438, loss_hard=-7.0819
+(AD train epochs:0)
+time cost 2.429469585418701 s
+(T) | Epoch=0186, loss=8.0174, loss_hard=-7.0668
+(AD train epochs:0)
+time cost 2.4759390354156494 s
+(T) | Epoch=0187, loss=8.0271, loss_hard=-7.0769
+(AD train epochs:0)
+time cost 2.324901580810547 s
+(T) | Epoch=0188, loss=8.0120, loss_hard=-7.0619
+(AD train epochs:0)
+time cost 2.287200927734375 s
+(T) | Epoch=0189, loss=8.0249, loss_hard=-7.0883
+(AD train epochs:0)
+time cost 1.9933209419250488 s
+(T) | Epoch=0190, loss=8.0695, loss_hard=-7.0691
+(AD train epochs:0)
+time cost 2.560485601425171 s
+(T) | Epoch=0191, loss=8.0287, loss_hard=-7.0683
+(AD train epochs:0)
+time cost 2.268693447113037 s
+(T) | Epoch=0192, loss=8.0652, loss_hard=-7.1099
+(AD train epochs:0)
+time cost 2.212205410003662 s
+(T) | Epoch=0193, loss=8.0169, loss_hard=-7.0582
+(AD train epochs:0)
+time cost 2.3004672527313232 s
+(T) | Epoch=0194, loss=8.0390, loss_hard=-7.0602
+(AD train epochs:0)
+time cost 2.0534214973449707 s
+(T) | Epoch=0195, loss=8.0560, loss_hard=-7.0720
+(AD train epochs:0)
+time cost 1.9971284866333008 s
+(T) | Epoch=0196, loss=8.0473, loss_hard=-7.0489
+(AD train epochs:0)
+time cost 2.090639352798462 s
+(T) | Epoch=0197, loss=8.0288, loss_hard=-7.0488
+(AD train epochs:0)
+time cost 2.0344676971435547 s
+(T) | Epoch=0198, loss=8.0022, loss_hard=-7.0406
+(AD train epochs:0)
+time cost 2.095501184463501 s
+(T) | Epoch=0199, loss=7.9985, loss_hard=-7.0304
+(AD train epochs:0)
+time cost 1.9956855773925781 s
+(T) | Epoch=0200, loss=8.0071, loss_hard=-7.0628
+(AD train epochs:0)
+time cost 1.976311206817627 s
+(T) | Epoch=0201, loss=8.0423, loss_hard=-7.0266
+(AD train epochs:0)
+time cost 2.130157470703125 s
+(T) | Epoch=0202, loss=8.0023, loss_hard=-7.0390
+(AD train epochs:0)
+time cost 2.1329007148742676 s
+(T) | Epoch=0203, loss=8.0257, loss_hard=-7.0277
+(AD train epochs:0)
+time cost 2.244068145751953 s
+(T) | Epoch=0204, loss=8.0263, loss_hard=-7.0180
+(AD train epochs:0)
+time cost 2.220214605331421 s
+(T) | Epoch=0205, loss=7.9914, loss_hard=-7.0649
+(AD train epochs:0)
+time cost 2.3458104133605957 s
+(T) | Epoch=0206, loss=8.0006, loss_hard=-7.0744
+(AD train epochs:0)
+time cost 2.4540133476257324 s
+(T) | Epoch=0207, loss=7.9931, loss_hard=-7.0295
+(AD train epochs:0)
+time cost 2.3020801544189453 s
+(T) | Epoch=0208, loss=7.9841, loss_hard=-7.0390
+(AD train epochs:0)
+time cost 2.595248222351074 s
+(T) | Epoch=0209, loss=8.0293, loss_hard=-7.0233
+(AD train epochs:0)
+time cost 2.1829261779785156 s
+(T) | Epoch=0210, loss=8.0497, loss_hard=-7.0175
+(AD train epochs:0)
+time cost 2.5175838470458984 s
+(T) | Epoch=0211, loss=7.9817, loss_hard=-7.0738
+(AD train epochs:0)
+time cost 2.291158437728882 s
+(T) | Epoch=0212, loss=7.9992, loss_hard=-7.0396
+(AD train epochs:0)
+time cost 2.01460862159729 s
+(T) | Epoch=0213, loss=7.9909, loss_hard=-7.0321
+(AD train epochs:0)
+time cost 1.9987461566925049 s
+(T) | Epoch=0214, loss=7.9888, loss_hard=-7.0119
+(AD train epochs:0)
+time cost 1.8526601791381836 s
+(T) | Epoch=0215, loss=7.9846, loss_hard=-7.0614
+(AD train epochs:0)
+time cost 2.041248083114624 s
+(T) | Epoch=0216, loss=7.9594, loss_hard=-7.0086
+(AD train epochs:0)
+time cost 2.0222363471984863 s
+(T) | Epoch=0217, loss=7.9672, loss_hard=-7.0281
+(AD train epochs:0)
+time cost 2.014920234680176 s
+(T) | Epoch=0218, loss=7.9666, loss_hard=-7.0262
+(AD train epochs:0)
+time cost 2.0002753734588623 s
+(T) | Epoch=0219, loss=8.0058, loss_hard=-7.0162
+(AD train epochs:0)
+time cost 2.2401962280273438 s
+(T) | Epoch=0220, loss=7.9579, loss_hard=-7.0022
+(AD train epochs:0)
+time cost 2.1972289085388184 s
+(T) | Epoch=0221, loss=7.9749, loss_hard=-7.0186
+(AD train epochs:0)
+time cost 2.46337628364563 s
+(T) | Epoch=0222, loss=8.0167, loss_hard=-7.0223
+(AD train epochs:0)
+time cost 2.3642966747283936 s
+(T) | Epoch=0223, loss=7.9707, loss_hard=-7.0108
+(AD train epochs:0)
+time cost 2.303975820541382 s
+(T) | Epoch=0224, loss=7.9789, loss_hard=-7.0145
+(AD train epochs:0)
+time cost 2.3439409732818604 s
+(T) | Epoch=0225, loss=7.9752, loss_hard=-7.0145
+(AD train epochs:0)
+time cost 2.4777448177337646 s
+(T) | Epoch=0226, loss=7.9710, loss_hard=-7.0149
+(AD train epochs:0)
+time cost 1.9813618659973145 s
+(T) | Epoch=0227, loss=7.9534, loss_hard=-6.9993
+(AD train epochs:0)
+time cost 2.0665876865386963 s
+(T) | Epoch=0228, loss=7.9660, loss_hard=-7.0241
+(AD train epochs:0)
+time cost 1.9893920421600342 s
+(T) | Epoch=0229, loss=7.9720, loss_hard=-7.0023
+(AD train epochs:0)
+time cost 1.9901587963104248 s
+(T) | Epoch=0230, loss=7.9653, loss_hard=-7.0108
+(AD train epochs:0)
+time cost 2.107084035873413 s
+(T) | Epoch=0231, loss=7.9496, loss_hard=-7.0381
+(AD train epochs:0)
+time cost 2.1861414909362793 s
+(T) | Epoch=0232, loss=7.9600, loss_hard=-7.0318
+(AD train epochs:0)
+time cost 2.1493470668792725 s
+(T) | Epoch=0233, loss=7.9877, loss_hard=-6.9918
+(AD train epochs:0)
+time cost 2.2081894874572754 s
+(T) | Epoch=0234, loss=7.9994, loss_hard=-6.9865
+(AD train epochs:0)
+time cost 2.2580363750457764 s
+(T) | Epoch=0235, loss=7.9520, loss_hard=-7.0026
+(AD train epochs:0)
+time cost 1.907390832901001 s
+(T) | Epoch=0236, loss=7.9601, loss_hard=-7.0035
+(AD train epochs:0)
+time cost 2.077514886856079 s
+(T) | Epoch=0237, loss=7.9683, loss_hard=-7.0175
+(AD train epochs:0)
+time cost 2.0221118927001953 s
+(T) | Epoch=0238, loss=7.9401, loss_hard=-6.9975
+(AD train epochs:0)
+time cost 2.1985292434692383 s
+(T) | Epoch=0239, loss=7.9654, loss_hard=-7.0263
+(AD train epochs:0)
+time cost 2.1903529167175293 s
+(T) | Epoch=0240, loss=7.9532, loss_hard=-6.9913
+(AD train epochs:0)
+time cost 2.188758134841919 s
+(T) | Epoch=0241, loss=7.9374, loss_hard=-7.0100
+(AD train epochs:0)
+time cost 2.4041249752044678 s
+(T) | Epoch=0242, loss=7.9491, loss_hard=-6.9939
+(AD train epochs:0)
+time cost 2.3196158409118652 s
+(T) | Epoch=0243, loss=7.9282, loss_hard=-6.9975
+(AD train epochs:0)
+time cost 2.3777990341186523 s
+(T) | Epoch=0244, loss=7.9573, loss_hard=-7.0213
+(AD train epochs:0)
+time cost 2.3812851905822754 s
+(T) | Epoch=0245, loss=7.9608, loss_hard=-7.0135
+(AD train epochs:0)
+time cost 2.532165288925171 s
+(T) | Epoch=0246, loss=7.9408, loss_hard=-7.0032
+(AD train epochs:0)
+time cost 1.9429497718811035 s
+(T) | Epoch=0247, loss=7.9369, loss_hard=-7.0518
+(AD train epochs:0)
+time cost 2.0253138542175293 s
+(T) | Epoch=0248, loss=7.9736, loss_hard=-6.9820
+(AD train epochs:0)
+time cost 2.019548177719116 s
+(T) | Epoch=0249, loss=7.9474, loss_hard=-7.0075
+(AD train epochs:0)
+time cost 2.2000181674957275 s
+(T) | Epoch=0250, loss=7.9251, loss_hard=-7.0179
+(AD train epochs:0)
+time cost 1.9271926879882812 s
+(T) | Epoch=0251, loss=7.9517, loss_hard=-6.9848
+(AD train epochs:0)
+time cost 1.9953560829162598 s
+(T) | Epoch=0252, loss=7.9623, loss_hard=-6.9731
+(AD train epochs:0)
+time cost 1.9832208156585693 s
+(T) | Epoch=0253, loss=7.9351, loss_hard=-6.9938
+(AD train epochs:0)
+time cost 1.9964823722839355 s
+(T) | Epoch=0254, loss=7.9221, loss_hard=-7.0197
+(AD train epochs:0)
+time cost 2.0048105716705322 s
+(T) | Epoch=0255, loss=7.9539, loss_hard=-6.9929
+(AD train epochs:0)
+time cost 2.258042812347412 s
+(T) | Epoch=0256, loss=7.9330, loss_hard=-7.0000
+(AD train epochs:0)
+time cost 2.299285888671875 s
+(T) | Epoch=0257, loss=7.9589, loss_hard=-6.9973
+(AD train epochs:0)
+time cost 2.4207398891448975 s
+(T) | Epoch=0258, loss=7.9453, loss_hard=-6.9858
+(AD train epochs:0)
+time cost 2.335864305496216 s
+(T) | Epoch=0259, loss=7.9148, loss_hard=-7.0472
+(AD train epochs:0)
+time cost 2.4531545639038086 s
+(T) | Epoch=0260, loss=7.9185, loss_hard=-6.9955
+(AD train epochs:0)
+time cost 2.46152925491333 s
+(T) | Epoch=0261, loss=7.9425, loss_hard=-6.9738
+(AD train epochs:0)
+time cost 2.087479829788208 s
+(T) | Epoch=0262, loss=7.9425, loss_hard=-7.0067
+(AD train epochs:0)
+time cost 2.1782679557800293 s
+(T) | Epoch=0263, loss=7.9826, loss_hard=-6.9921
+(AD train epochs:0)
+time cost 2.1344306468963623 s
+(T) | Epoch=0264, loss=7.9256, loss_hard=-7.0030
+(AD train epochs:0)
+time cost 2.2474253177642822 s
+(T) | Epoch=0265, loss=7.9184, loss_hard=-7.0099
+(AD train epochs:0)
+time cost 2.165390968322754 s
+(T) | Epoch=0266, loss=7.9419, loss_hard=-7.0030
+(AD train epochs:0)
+time cost 2.181196451187134 s
+(T) | Epoch=0267, loss=7.9422, loss_hard=-6.9702
+(AD train epochs:0)
+time cost 2.0357413291931152 s
+(T) | Epoch=0268, loss=7.9387, loss_hard=-6.9994
+(AD train epochs:0)
+time cost 2.1820154190063477 s
+(T) | Epoch=0269, loss=7.9097, loss_hard=-7.0181
+(AD train epochs:0)
+time cost 2.303539752960205 s
+(T) | Epoch=0270, loss=7.9320, loss_hard=-6.9726
+(AD train epochs:0)
+time cost 1.9988303184509277 s
+(T) | Epoch=0271, loss=7.9450, loss_hard=-6.9613
+(AD train epochs:0)
+time cost 2.106924057006836 s
+(T) | Epoch=0272, loss=7.9261, loss_hard=-6.9648
+(AD train epochs:0)
+time cost 2.0053000450134277 s
+(T) | Epoch=0273, loss=7.9324, loss_hard=-6.9922
+(AD train epochs:0)
+time cost 2.437037706375122 s
+(T) | Epoch=0274, loss=7.9269, loss_hard=-6.9644
+(AD train epochs:0)
+time cost 2.451813220977783 s
+(T) | Epoch=0275, loss=7.9234, loss_hard=-6.9824
+(AD train epochs:0)
+time cost 2.2830522060394287 s
+(T) | Epoch=0276, loss=7.9404, loss_hard=-6.9892
+(AD train epochs:0)
+time cost 2.5384302139282227 s
+(T) | Epoch=0277, loss=7.9503, loss_hard=-6.9885
+(AD train epochs:0)
+time cost 2.4914615154266357 s
+(T) | Epoch=0278, loss=7.9241, loss_hard=-6.9570
+(AD train epochs:0)
+time cost 2.6850645542144775 s
+(T) | Epoch=0279, loss=7.9060, loss_hard=-6.9813
+(AD train epochs:0)
+time cost 2.641622304916382 s
+(T) | Epoch=0280, loss=7.9009, loss_hard=-6.9761
+(AD train epochs:0)
+time cost 2.082138776779175 s
+(T) | Epoch=0281, loss=7.9074, loss_hard=-6.9819
+(AD train epochs:0)
+time cost 1.968693494796753 s
+(T) | Epoch=0282, loss=7.9386, loss_hard=-6.9903
+(AD train epochs:0)
+time cost 1.9861867427825928 s
+(T) | Epoch=0283, loss=7.9353, loss_hard=-7.0287
+(AD train epochs:0)
+time cost 1.9675817489624023 s
+(T) | Epoch=0284, loss=7.9133, loss_hard=-6.9703
+(AD train epochs:0)
+time cost 2.185471296310425 s
+(T) | Epoch=0285, loss=7.9216, loss_hard=-6.9991
+(AD train epochs:0)
+time cost 2.0700700283050537 s
+(T) | Epoch=0286, loss=7.8960, loss_hard=-6.9750
+(AD train epochs:0)
+time cost 2.1737592220306396 s
+(T) | Epoch=0287, loss=7.9158, loss_hard=-6.9826
+(AD train epochs:0)
+time cost 1.9965391159057617 s
+(T) | Epoch=0288, loss=7.9089, loss_hard=-6.9686
+(AD train epochs:0)
+time cost 2.000091552734375 s
+(T) | Epoch=0289, loss=7.9030, loss_hard=-6.9740
+(AD train epochs:0)
+time cost 2.1584064960479736 s
+(T) | Epoch=0290, loss=7.9026, loss_hard=-6.9911
+(AD train epochs:0)
+time cost 2.097907304763794 s
+(T) | Epoch=0291, loss=7.9234, loss_hard=-6.9934
+(AD train epochs:0)
+time cost 2.245391845703125 s
+(T) | Epoch=0292, loss=7.9114, loss_hard=-6.9687
+(AD train epochs:0)
+time cost 2.1756460666656494 s
+(T) | Epoch=0293, loss=7.8847, loss_hard=-6.9569
+(AD train epochs:0)
+time cost 2.4021761417388916 s
+(T) | Epoch=0294, loss=7.8889, loss_hard=-6.9561
+(AD train epochs:0)
+time cost 2.2809560298919678 s
+(T) | Epoch=0295, loss=7.8920, loss_hard=-6.9841
+(AD train epochs:0)
+time cost 2.455988883972168 s
+(T) | Epoch=0296, loss=7.8976, loss_hard=-7.0010
+(AD train epochs:0)
+time cost 2.3274011611938477 s
+(T) | Epoch=0297, loss=7.9053, loss_hard=-6.9602
+(AD train epochs:0)
+time cost 2.1536312103271484 s
+(T) | Epoch=0298, loss=7.9060, loss_hard=-6.9707
+(AD train epochs:0)
+time cost 2.3466737270355225 s
+(T) | Epoch=0299, loss=7.8959, loss_hard=-6.9733
+(AD train epochs:0)
+time cost 2.0045671463012695 s
+(T) | Epoch=0300, loss=7.8897, loss_hard=-6.9597
+(AD train epochs:0)
+time cost 1.9172110557556152 s
+(T) | Epoch=0301, loss=7.8888, loss_hard=-6.9574
+(AD train epochs:0)
+time cost 1.8331844806671143 s
+(T) | Epoch=0302, loss=7.9427, loss_hard=-6.9547
+(AD train epochs:0)
+time cost 1.9913673400878906 s
+(T) | Epoch=0303, loss=7.8950, loss_hard=-6.9664
+(AD train epochs:0)
+time cost 2.0220208168029785 s
+(T) | Epoch=0304, loss=7.8860, loss_hard=-7.0316
+(AD train epochs:0)
+time cost 2.159585952758789 s
+(T) | Epoch=0305, loss=7.8932, loss_hard=-6.9528
+(AD train epochs:0)
+time cost 2.1680164337158203 s
+(T) | Epoch=0306, loss=7.9173, loss_hard=-6.9832
+(AD train epochs:0)
+time cost 2.159661054611206 s
+(T) | Epoch=0307, loss=7.9084, loss_hard=-6.9513
+(AD train epochs:0)
+time cost 2.0133063793182373 s
+(T) | Epoch=0308, loss=7.8983, loss_hard=-6.9819
+(AD train epochs:0)
+time cost 1.958496332168579 s
+(T) | Epoch=0309, loss=7.8947, loss_hard=-6.9491
+(AD train epochs:0)
+time cost 2.0299887657165527 s
+(T) | Epoch=0310, loss=7.8971, loss_hard=-6.9801
+(AD train epochs:0)
+time cost 2.373277425765991 s
+(T) | Epoch=0311, loss=8.0220, loss_hard=-6.9657
+(AD train epochs:0)
+time cost 2.5344927310943604 s
+(T) | Epoch=0312, loss=7.8997, loss_hard=-6.9674
+(AD train epochs:0)
+time cost 2.4623868465423584 s
+(T) | Epoch=0313, loss=7.9147, loss_hard=-6.9645
+(AD train epochs:0)
+time cost 2.5872621536254883 s
+(T) | Epoch=0314, loss=7.8943, loss_hard=-6.9918
+(AD train epochs:0)
+time cost 2.4415934085845947 s
+(T) | Epoch=0315, loss=7.8915, loss_hard=-6.9773
+(AD train epochs:0)
+time cost 2.237344264984131 s
+(T) | Epoch=0316, loss=7.9049, loss_hard=-6.9776
+(AD train epochs:0)
+time cost 2.2726144790649414 s
+(T) | Epoch=0317, loss=7.8878, loss_hard=-6.9928
+(AD train epochs:0)
+time cost 2.1327295303344727 s
+(T) | Epoch=0318, loss=7.8845, loss_hard=-6.9653
+(AD train epochs:0)
+time cost 1.9720542430877686 s
+(T) | Epoch=0319, loss=7.8869, loss_hard=-6.9697
+(AD train epochs:0)
+time cost 2.109900712966919 s
+(T) | Epoch=0320, loss=7.8800, loss_hard=-6.9579
+(AD train epochs:0)
+time cost 2.060800790786743 s
+(T) | Epoch=0321, loss=7.8942, loss_hard=-6.9491
+(AD train epochs:0)
+time cost 2.0606136322021484 s
+(T) | Epoch=0322, loss=7.8895, loss_hard=-6.9808
+(AD train epochs:0)
+time cost 1.9542205333709717 s
+(T) | Epoch=0323, loss=7.8756, loss_hard=-6.9858
+(AD train epochs:0)
+time cost 2.314847469329834 s
+(T) | Epoch=0324, loss=7.8957, loss_hard=-6.9717
+(AD train epochs:0)
+time cost 2.187533378601074 s
+(T) | Epoch=0325, loss=7.9276, loss_hard=-6.9824
+(AD train epochs:0)
+time cost 2.07914400100708 s
+(T) | Epoch=0326, loss=7.8940, loss_hard=-6.9598
+(AD train epochs:0)
+time cost 1.9652769565582275 s
+(T) | Epoch=0327, loss=7.8735, loss_hard=-6.9467
+(AD train epochs:0)
+time cost 2.2236859798431396 s
+(T) | Epoch=0328, loss=7.8961, loss_hard=-6.9609
+(AD train epochs:0)
+time cost 2.272791862487793 s
+(T) | Epoch=0329, loss=7.8781, loss_hard=-6.9512
+(AD train epochs:0)
+time cost 2.188297986984253 s
+(T) | Epoch=0330, loss=7.9067, loss_hard=-6.9790
+(AD train epochs:0)
+time cost 2.391493082046509 s
+(T) | Epoch=0331, loss=7.8842, loss_hard=-6.9522
+(AD train epochs:0)
+time cost 2.179874897003174 s
+(T) | Epoch=0332, loss=7.8846, loss_hard=-6.9758
+(AD train epochs:0)
+time cost 2.327026128768921 s
+(T) | Epoch=0333, loss=7.8688, loss_hard=-6.9514
+(AD train epochs:0)
+time cost 2.288468837738037 s
+(T) | Epoch=0334, loss=7.8759, loss_hard=-6.9539
+(AD train epochs:0)
+time cost 2.512876033782959 s
+(T) | Epoch=0335, loss=7.8728, loss_hard=-6.9721
+(AD train epochs:0)
+time cost 2.253126382827759 s
+(T) | Epoch=0336, loss=7.8928, loss_hard=-6.9449
+(AD train epochs:0)
+time cost 2.048647165298462 s
+(T) | Epoch=0337, loss=7.8977, loss_hard=-6.9349
+(AD train epochs:0)
+time cost 2.106844902038574 s
+(T) | Epoch=0338, loss=7.8712, loss_hard=-6.9784
+(AD train epochs:0)
+time cost 1.9175214767456055 s
+(T) | Epoch=0339, loss=7.8714, loss_hard=-6.9442
+(AD train epochs:0)
+time cost 1.962174654006958 s
+(T) | Epoch=0340, loss=7.8682, loss_hard=-6.9532
+(AD train epochs:0)
+time cost 1.9311225414276123 s
+(T) | Epoch=0341, loss=7.9028, loss_hard=-6.9398
+(AD train epochs:0)
+time cost 1.8899083137512207 s
+(T) | Epoch=0342, loss=7.8827, loss_hard=-6.9610
+(AD train epochs:0)
+time cost 1.93571138381958 s
+(T) | Epoch=0343, loss=7.8914, loss_hard=-6.9565
+(AD train epochs:0)
+time cost 1.837010145187378 s
+(T) | Epoch=0344, loss=7.8667, loss_hard=-6.9400
+(AD train epochs:0)
+time cost 2.096668004989624 s
+(T) | Epoch=0345, loss=7.9206, loss_hard=-6.9637
+(AD train epochs:0)
+time cost 2.193284273147583 s
+(T) | Epoch=0346, loss=7.8966, loss_hard=-6.9570
+(AD train epochs:0)
+time cost 2.3466053009033203 s
+(T) | Epoch=0347, loss=7.8838, loss_hard=-6.9781
+(AD train epochs:0)
+time cost 2.5110511779785156 s
+(T) | Epoch=0348, loss=7.9307, loss_hard=-6.9432
+(AD train epochs:0)
+time cost 2.279130220413208 s
+(T) | Epoch=0349, loss=7.9221, loss_hard=-6.9438
+(AD train epochs:0)
+time cost 2.2637691497802734 s
+(T) | Epoch=0350, loss=7.8782, loss_hard=-6.9319
+(AD train epochs:0)
+time cost 2.071380615234375 s
+(T) | Epoch=0351, loss=7.8684, loss_hard=-6.9345
+(AD train epochs:0)
+time cost 2.176635265350342 s
+(T) | Epoch=0352, loss=7.8758, loss_hard=-6.9445
+(AD train epochs:0)
+time cost 2.0236992835998535 s
+(T) | Epoch=0353, loss=7.8622, loss_hard=-6.9439
+(AD train epochs:0)
+time cost 1.947763442993164 s
+(T) | Epoch=0354, loss=7.8622, loss_hard=-6.9366
+(AD train epochs:0)
+time cost 1.958139419555664 s
+(T) | Epoch=0355, loss=7.8557, loss_hard=-6.9245
+(AD train epochs:0)
+time cost 2.0030345916748047 s
+(T) | Epoch=0356, loss=7.8639, loss_hard=-6.9178
+(AD train epochs:0)
+time cost 1.9356911182403564 s
+(T) | Epoch=0357, loss=7.8693, loss_hard=-6.9324
+(AD train epochs:0)
+time cost 1.958653211593628 s
+(T) | Epoch=0358, loss=7.8657, loss_hard=-6.9139
+(AD train epochs:0)
+time cost 1.9619736671447754 s
+(T) | Epoch=0359, loss=7.8664, loss_hard=-6.9230
+(AD train epochs:0)
+time cost 2.0756192207336426 s
+(T) | Epoch=0360, loss=7.8537, loss_hard=-6.9087
+(AD train epochs:0)
+time cost 1.9605894088745117 s
+(T) | Epoch=0361, loss=7.8485, loss_hard=-6.9284
+(AD train epochs:0)
+time cost 2.052222490310669 s
+(T) | Epoch=0362, loss=7.8560, loss_hard=-6.9217
+(AD train epochs:0)
+time cost 2.091229200363159 s
+(T) | Epoch=0363, loss=7.8619, loss_hard=-6.9242
+(AD train epochs:0)
+time cost 2.0159003734588623 s
+(T) | Epoch=0364, loss=7.8647, loss_hard=-6.9231
+(AD train epochs:0)
+time cost 1.9457931518554688 s
+(T) | Epoch=0365, loss=7.8636, loss_hard=-6.9156
+(AD train epochs:0)
+time cost 2.533095359802246 s
+(T) | Epoch=0366, loss=7.8572, loss_hard=-6.9164
+(AD train epochs:0)
+time cost 2.1933553218841553 s
+(T) | Epoch=0367, loss=7.8748, loss_hard=-6.9233
+(AD train epochs:0)
+time cost 2.283626079559326 s
+(T) | Epoch=0368, loss=7.8551, loss_hard=-6.9488
+(AD train epochs:0)
+time cost 1.9982640743255615 s
+(T) | Epoch=0369, loss=7.8557, loss_hard=-6.9274
+(AD train epochs:0)
+time cost 2.3084819316864014 s
+(T) | Epoch=0370, loss=7.8834, loss_hard=-6.9114
+(AD train epochs:0)
+time cost 2.3199150562286377 s
+(T) | Epoch=0371, loss=7.8705, loss_hard=-6.9115
+(AD train epochs:0)
+time cost 2.318636178970337 s
+(T) | Epoch=0372, loss=7.8785, loss_hard=-6.9059
+(AD train epochs:0)
+time cost 2.0725719928741455 s
+(T) | Epoch=0373, loss=7.8483, loss_hard=-6.9066
+(AD train epochs:0)
+time cost 1.9665133953094482 s
+(T) | Epoch=0374, loss=7.8635, loss_hard=-6.9189
+(AD train epochs:0)
+time cost 2.0924503803253174 s
+(T) | Epoch=0375, loss=7.8543, loss_hard=-6.8991
+(AD train epochs:0)
+time cost 2.1410491466522217 s
+(T) | Epoch=0376, loss=7.8439, loss_hard=-6.9409
+(AD train epochs:0)
+time cost 2.1154277324676514 s
+(T) | Epoch=0377, loss=7.8764, loss_hard=-6.8948
+(AD train epochs:0)
+time cost 2.1106135845184326 s
+(T) | Epoch=0378, loss=7.8723, loss_hard=-6.9032
+(AD train epochs:0)
+time cost 1.9616198539733887 s
+(T) | Epoch=0379, loss=7.8769, loss_hard=-6.9243
+(AD train epochs:0)
+time cost 1.902341604232788 s
+(T) | Epoch=0380, loss=7.8410, loss_hard=-6.9261
+(AD train epochs:0)
+time cost 1.9927425384521484 s
+(T) | Epoch=0381, loss=7.8816, loss_hard=-6.9237
+(AD train epochs:0)
+time cost 1.8962957859039307 s
+(T) | Epoch=0382, loss=7.8538, loss_hard=-6.8998
+(AD train epochs:0)
+time cost 2.173426389694214 s
+(T) | Epoch=0383, loss=7.8407, loss_hard=-6.8941
+(AD train epochs:0)
+time cost 2.153827667236328 s
+(T) | Epoch=0384, loss=7.8491, loss_hard=-6.9001
+(AD train epochs:0)
+time cost 2.2464957237243652 s
+(T) | Epoch=0385, loss=7.8539, loss_hard=-6.8842
+(AD train epochs:0)
+time cost 2.218327045440674 s
+(T) | Epoch=0386, loss=7.8516, loss_hard=-6.8928
+(AD train epochs:0)
+time cost 2.744351387023926 s
+(T) | Epoch=0387, loss=7.8348, loss_hard=-6.8942
+(AD train epochs:0)
+time cost 2.5161898136138916 s
+(T) | Epoch=0388, loss=7.8511, loss_hard=-6.9021
+(AD train epochs:0)
+time cost 2.4746758937835693 s
+(T) | Epoch=0389, loss=7.8437, loss_hard=-6.8810
+(AD train epochs:0)
+time cost 2.2750778198242188 s
+(T) | Epoch=0390, loss=7.8316, loss_hard=-6.8983
+(AD train epochs:0)
+time cost 1.797006368637085 s
+(T) | Epoch=0391, loss=7.8440, loss_hard=-6.9005
+(AD train epochs:0)
+time cost 2.271165609359741 s
+(T) | Epoch=0392, loss=7.8483, loss_hard=-6.8967
+(AD train epochs:0)
+time cost 2.157259225845337 s
+(T) | Epoch=0393, loss=7.8409, loss_hard=-6.9226
+(AD train epochs:0)
+time cost 2.329702377319336 s
+(T) | Epoch=0394, loss=7.8627, loss_hard=-6.9013
+(AD train epochs:0)
+time cost 2.0845377445220947 s
+(T) | Epoch=0395, loss=7.8325, loss_hard=-6.8970
+(AD train epochs:0)
+time cost 2.2331960201263428 s
+(T) | Epoch=0396, loss=7.8559, loss_hard=-6.9000
+(AD train epochs:0)
+time cost 2.1577072143554688 s
+(T) | Epoch=0397, loss=7.8414, loss_hard=-6.8929
+(AD train epochs:0)
+time cost 2.002476215362549 s
+(T) | Epoch=0398, loss=7.8414, loss_hard=-6.8920
+(AD train epochs:0)
+time cost 2.1570351123809814 s
+(T) | Epoch=0399, loss=7.8422, loss_hard=-6.9082
+(AD train epochs:0)
+time cost 2.3120152950286865 s
+(T) | Epoch=0400, loss=7.8495, loss_hard=-6.9100
+(AD train epochs:0)
+time cost 2.292309045791626 s
+(T) | Epoch=0401, loss=7.8616, loss_hard=-6.8830
+(AD train epochs:0)
+time cost 2.1890265941619873 s
+(T) | Epoch=0402, loss=7.8231, loss_hard=-6.8974
+(AD train epochs:0)
+time cost 2.236314058303833 s
+(T) | Epoch=0403, loss=7.8532, loss_hard=-6.9046
+(AD train epochs:0)
+time cost 2.2636749744415283 s
+(T) | Epoch=0404, loss=7.8773, loss_hard=-6.8996
+(AD train epochs:0)
+time cost 1.9938774108886719 s
+(T) | Epoch=0405, loss=7.8497, loss_hard=-6.8915
+(AD train epochs:0)
+time cost 2.5658674240112305 s
+(T) | Epoch=0406, loss=7.8298, loss_hard=-6.9108
+(AD train epochs:0)
+time cost 2.259643316268921 s
+(T) | Epoch=0407, loss=7.8596, loss_hard=-6.9042
+(AD train epochs:0)
+time cost 2.0210888385772705 s
+(T) | Epoch=0408, loss=7.8486, loss_hard=-6.8973
+(AD train epochs:0)
+time cost 1.9666757583618164 s
+(T) | Epoch=0409, loss=7.8159, loss_hard=-6.9004
+(AD train epochs:0)
+time cost 2.069298028945923 s
+(T) | Epoch=0410, loss=7.8623, loss_hard=-6.8916
+(AD train epochs:0)
+time cost 2.173419237136841 s
+(T) | Epoch=0411, loss=7.8263, loss_hard=-6.8856
+(AD train epochs:0)
+time cost 2.0399205684661865 s
+(T) | Epoch=0412, loss=7.8503, loss_hard=-6.8948
+(AD train epochs:0)
+time cost 2.057044744491577 s
+(T) | Epoch=0413, loss=7.8533, loss_hard=-6.8865
+(AD train epochs:0)
+time cost 2.0720479488372803 s
+(T) | Epoch=0414, loss=7.8323, loss_hard=-6.9091
+(AD train epochs:0)
+time cost 1.9830658435821533 s
+(T) | Epoch=0415, loss=7.8435, loss_hard=-6.9039
+(AD train epochs:0)
+time cost 2.12300443649292 s
+(T) | Epoch=0416, loss=7.8276, loss_hard=-6.8998
+(AD train epochs:0)
+time cost 2.0300753116607666 s
+(T) | Epoch=0417, loss=7.8226, loss_hard=-6.9108
+(AD train epochs:0)
+time cost 2.08284854888916 s
+(T) | Epoch=0418, loss=7.8616, loss_hard=-6.9059
+(AD train epochs:0)
+time cost 2.1402270793914795 s
+(T) | Epoch=0419, loss=7.8231, loss_hard=-6.9226
+(AD train epochs:0)
+time cost 2.25699520111084 s
+(T) | Epoch=0420, loss=7.8362, loss_hard=-6.9054
+(AD train epochs:0)
+time cost 2.562638521194458 s
+(T) | Epoch=0421, loss=7.8286, loss_hard=-6.9244
+(AD train epochs:0)
+time cost 2.3100857734680176 s
+(T) | Epoch=0422, loss=7.8272, loss_hard=-6.9052
+(AD train epochs:0)
+time cost 2.1094284057617188 s
+(T) | Epoch=0423, loss=7.8330, loss_hard=-6.9083
+(AD train epochs:0)
+time cost 2.2240662574768066 s
+(T) | Epoch=0424, loss=7.8439, loss_hard=-6.8984
+(AD train epochs:0)
+time cost 2.1132583618164062 s
+(T) | Epoch=0425, loss=7.8437, loss_hard=-6.9115
+(AD train epochs:0)
+time cost 2.572606086730957 s
+(T) | Epoch=0426, loss=7.8504, loss_hard=-6.9081
+(AD train epochs:0)
+time cost 2.2348828315734863 s
+(T) | Epoch=0427, loss=7.8371, loss_hard=-6.9093
+(AD train epochs:0)
+time cost 1.89426589012146 s
+(T) | Epoch=0428, loss=7.8343, loss_hard=-6.9037
+(AD train epochs:0)
+time cost 2.029454231262207 s
+(T) | Epoch=0429, loss=7.8116, loss_hard=-6.8911
+(AD train epochs:0)
+time cost 2.01267147064209 s
+(T) | Epoch=0430, loss=7.8485, loss_hard=-6.8971
+(AD train epochs:0)
+time cost 2.044445753097534 s
+(T) | Epoch=0431, loss=7.8179, loss_hard=-6.9260
+(AD train epochs:0)
+time cost 2.1573095321655273 s
+(T) | Epoch=0432, loss=7.8591, loss_hard=-6.9004
+(AD train epochs:0)
+time cost 2.1363070011138916 s
+(T) | Epoch=0433, loss=7.8582, loss_hard=-6.9152
+(AD train epochs:0)
+time cost 2.2150392532348633 s
+(T) | Epoch=0434, loss=7.8372, loss_hard=-6.9216
+(AD train epochs:0)
+time cost 2.207402467727661 s
+(T) | Epoch=0435, loss=7.8602, loss_hard=-6.9192
+(AD train epochs:0)
+time cost 2.046937942504883 s
+(T) | Epoch=0436, loss=7.8483, loss_hard=-6.9134
+(AD train epochs:0)
+time cost 2.494990587234497 s
+(T) | Epoch=0437, loss=7.8297, loss_hard=-6.9310
+(AD train epochs:0)
+time cost 2.4127843379974365 s
+(T) | Epoch=0438, loss=7.8431, loss_hard=-6.9318
+(AD train epochs:0)
+time cost 2.455899715423584 s
+(T) | Epoch=0439, loss=7.8304, loss_hard=-6.9052
+(AD train epochs:0)
+time cost 2.2188844680786133 s
+(T) | Epoch=0440, loss=7.8401, loss_hard=-6.8999
+(AD train epochs:0)
+time cost 2.3876819610595703 s
+(T) | Epoch=0441, loss=7.8127, loss_hard=-6.9078
+(AD train epochs:0)
+time cost 2.574880838394165 s
+(T) | Epoch=0442, loss=7.8242, loss_hard=-6.9206
+(AD train epochs:0)
+time cost 2.5199787616729736 s
+(T) | Epoch=0443, loss=7.8056, loss_hard=-6.9078
+(AD train epochs:0)
+time cost 1.9773688316345215 s
+(T) | Epoch=0444, loss=7.8184, loss_hard=-6.8903
+(AD train epochs:0)
+time cost 1.9685122966766357 s
+(T) | Epoch=0445, loss=7.8621, loss_hard=-6.8874
+(AD train epochs:0)
+time cost 2.0014307498931885 s
+(T) | Epoch=0446, loss=7.8254, loss_hard=-6.8706
+(AD train epochs:0)
+time cost 2.1088826656341553 s
+(T) | Epoch=0447, loss=7.8294, loss_hard=-6.8879
+(AD train epochs:0)
+time cost 1.922999382019043 s
+(T) | Epoch=0448, loss=7.8143, loss_hard=-6.8758
+(AD train epochs:0)
+time cost 1.9871087074279785 s
+(T) | Epoch=0449, loss=7.8258, loss_hard=-6.8892
+(AD train epochs:0)
+time cost 1.928251028060913 s
+(T) | Epoch=0450, loss=7.8258, loss_hard=-6.8760
+(AD train epochs:0)
+time cost 2.1505024433135986 s
+(T) | Epoch=0451, loss=7.8129, loss_hard=-6.8933
+(AD train epochs:0)
+time cost 2.0928921699523926 s
+(T) | Epoch=0452, loss=7.8259, loss_hard=-6.8889
+(AD train epochs:0)
+time cost 2.0910820960998535 s
+(T) | Epoch=0453, loss=7.8226, loss_hard=-6.8824
+(AD train epochs:0)
+time cost 2.330576181411743 s
+(T) | Epoch=0454, loss=7.8486, loss_hard=-6.8811
+(AD train epochs:0)
+time cost 2.4165735244750977 s
+(T) | Epoch=0455, loss=7.8165, loss_hard=-6.8768
+(AD train epochs:0)
+time cost 2.3447017669677734 s
+(T) | Epoch=0456, loss=7.8313, loss_hard=-6.8880
+(AD train epochs:0)
+time cost 2.4905483722686768 s
+(T) | Epoch=0457, loss=7.8222, loss_hard=-6.8799
+(AD train epochs:0)
+time cost 2.4065933227539062 s
+(T) | Epoch=0458, loss=7.8058, loss_hard=-6.8746
+(AD train epochs:0)
+time cost 2.427656888961792 s
+(T) | Epoch=0459, loss=7.8447, loss_hard=-6.8601
+(AD train epochs:0)
+time cost 2.290982723236084 s
+(T) | Epoch=0460, loss=7.8599, loss_hard=-6.8863
+(AD train epochs:0)
+time cost 2.342637538909912 s
+(T) | Epoch=0461, loss=7.8281, loss_hard=-6.9006
+(AD train epochs:0)
+time cost 2.2021491527557373 s
+(T) | Epoch=0462, loss=7.8048, loss_hard=-6.8788
+(AD train epochs:0)
+time cost 1.957932710647583 s
+(T) | Epoch=0463, loss=7.8223, loss_hard=-6.9184
+(AD train epochs:0)
+time cost 2.048110246658325 s
+(T) | Epoch=0464, loss=7.8184, loss_hard=-6.8747
+(AD train epochs:0)
+time cost 1.9779314994812012 s
+(T) | Epoch=0465, loss=7.8107, loss_hard=-6.8844
+(AD train epochs:0)
+time cost 2.202699899673462 s
+(T) | Epoch=0466, loss=7.8141, loss_hard=-6.8779
+(AD train epochs:0)
+time cost 2.0186386108398438 s
+(T) | Epoch=0467, loss=7.8098, loss_hard=-6.9082
+(AD train epochs:0)
+time cost 1.9994773864746094 s
+(T) | Epoch=0468, loss=7.8207, loss_hard=-6.8899
+(AD train epochs:0)
+time cost 2.0094730854034424 s
+(T) | Epoch=0469, loss=7.8480, loss_hard=-6.8879
+(AD train epochs:0)
+time cost 2.0777370929718018 s
+(T) | Epoch=0470, loss=7.8231, loss_hard=-6.8852
+(AD train epochs:0)
+time cost 1.989046573638916 s
+(T) | Epoch=0471, loss=7.8009, loss_hard=-6.8868
+(AD train epochs:0)
+time cost 2.501768112182617 s
+(T) | Epoch=0472, loss=7.8049, loss_hard=-6.8802
+(AD train epochs:0)
+time cost 2.0808122158050537 s
+(T) | Epoch=0473, loss=7.8404, loss_hard=-6.9042
+(AD train epochs:0)
+time cost 2.168766736984253 s
+(T) | Epoch=0474, loss=7.9363, loss_hard=-6.8797
+(AD train epochs:0)
+time cost 2.0802695751190186 s
+(T) | Epoch=0475, loss=7.8448, loss_hard=-6.8986
+(AD train epochs:0)
+time cost 2.243997097015381 s
+(T) | Epoch=0476, loss=7.8209, loss_hard=-6.8875
+(AD train epochs:0)
+time cost 2.136580228805542 s
+(T) | Epoch=0477, loss=7.8100, loss_hard=-6.8881
+(AD train epochs:0)
+time cost 2.0123324394226074 s
+(T) | Epoch=0478, loss=7.8075, loss_hard=-6.9268
+(AD train epochs:0)
+time cost 2.2597718238830566 s
+(T) | Epoch=0479, loss=7.8444, loss_hard=-6.8865
+(AD train epochs:0)
+time cost 2.3941969871520996 s
+(T) | Epoch=0480, loss=7.8206, loss_hard=-6.8836
+(AD train epochs:0)
+time cost 1.9519407749176025 s
+(T) | Epoch=0481, loss=7.8118, loss_hard=-6.8841
+(AD train epochs:0)
+time cost 1.8797106742858887 s
+(T) | Epoch=0482, loss=7.8151, loss_hard=-6.9107
+(AD train epochs:0)
+time cost 1.911475658416748 s
+(T) | Epoch=0483, loss=7.8141, loss_hard=-6.8705
+(AD train epochs:0)
+time cost 2.1223349571228027 s
+(T) | Epoch=0484, loss=7.8264, loss_hard=-6.8667
+(AD train epochs:0)
+time cost 1.9925124645233154 s
+(T) | Epoch=0485, loss=7.8023, loss_hard=-6.8701
+(AD train epochs:0)
+time cost 2.0390262603759766 s
+(T) | Epoch=0486, loss=7.8104, loss_hard=-6.8627
+(AD train epochs:0)
+time cost 2.123934745788574 s
+(T) | Epoch=0487, loss=7.8171, loss_hard=-6.8503
+(AD train epochs:0)
+time cost 2.0643301010131836 s
+(T) | Epoch=0488, loss=7.7912, loss_hard=-6.8610
+(AD train epochs:0)
+time cost 2.1408848762512207 s
+(T) | Epoch=0489, loss=7.8196, loss_hard=-6.8306
+(AD train epochs:0)
+time cost 2.1275298595428467 s
+(T) | Epoch=0490, loss=7.8347, loss_hard=-6.8440
+(AD train epochs:0)
+time cost 2.5366456508636475 s
+(T) | Epoch=0491, loss=7.8134, loss_hard=-6.8299
+(AD train epochs:0)
+time cost 2.189279079437256 s
+(T) | Epoch=0492, loss=7.7939, loss_hard=-6.8047
+(AD train epochs:0)
+time cost 2.4049220085144043 s
+(T) | Epoch=0493, loss=7.8053, loss_hard=-6.8560
+(AD train epochs:0)
+time cost 2.3491687774658203 s
+(T) | Epoch=0494, loss=7.8185, loss_hard=-6.8255
+(AD train epochs:0)
+time cost 2.3362810611724854 s
+(T) | Epoch=0495, loss=7.8061, loss_hard=-6.8168
+(AD train epochs:0)
+time cost 2.4465794563293457 s
+(T) | Epoch=0496, loss=7.7903, loss_hard=-6.8319
+(AD train epochs:0)
+time cost 2.0614523887634277 s
+(T) | Epoch=0497, loss=7.8047, loss_hard=-6.8200
+(AD train epochs:0)
+time cost 2.0352630615234375 s
+(T) | Epoch=0498, loss=7.8187, loss_hard=-6.8349
+(AD train epochs:0)
+time cost 1.9961755275726318 s
+(T) | Epoch=0499, loss=7.8250, loss_hard=-6.8110
+(AD train epochs:0)
+time cost 2.2636799812316895 s
+(T) | Epoch=0500, loss=7.8082, loss_hard=-6.8476
+(AD train epochs:0)
+time cost 1.8667457103729248 s
+(T) | Epoch=0501, loss=7.8223, loss_hard=-6.8412
+(AD train epochs:0)
+time cost 2.0569138526916504 s
+(T) | Epoch=0502, loss=7.8050, loss_hard=-6.8246
+(AD train epochs:0)
+time cost 1.944782018661499 s
+(T) | Epoch=0503, loss=7.8100, loss_hard=-6.8360
+(AD train epochs:0)
+time cost 1.976550817489624 s
+(T) | Epoch=0504, loss=7.8613, loss_hard=-6.8204
+(AD train epochs:0)
+time cost 2.1172196865081787 s
+(T) | Epoch=0505, loss=7.8371, loss_hard=-6.8826
+(AD train epochs:0)
+time cost 2.0350112915039062 s
+(T) | Epoch=0506, loss=7.8188, loss_hard=-6.8641
+(AD train epochs:0)
+time cost 2.0162787437438965 s
+(T) | Epoch=0507, loss=7.8330, loss_hard=-6.8592
+(AD train epochs:0)
+time cost 2.2544946670532227 s
+(T) | Epoch=0508, loss=7.8184, loss_hard=-6.8664
+(AD train epochs:0)
+time cost 2.479029655456543 s
+(T) | Epoch=0509, loss=7.8359, loss_hard=-6.8686
+(AD train epochs:0)
+time cost 2.4020209312438965 s
+(T) | Epoch=0510, loss=7.8299, loss_hard=-6.8598
+(AD train epochs:0)
+time cost 2.251016616821289 s
+(T) | Epoch=0511, loss=7.8071, loss_hard=-6.8532
+(AD train epochs:0)
+time cost 2.2203500270843506 s
+(T) | Epoch=0512, loss=7.8276, loss_hard=-6.8242
+(AD train epochs:0)
+time cost 2.290037155151367 s
+(T) | Epoch=0513, loss=7.8254, loss_hard=-6.8647
+(AD train epochs:0)
+time cost 2.372967004776001 s
+(T) | Epoch=0514, loss=7.8212, loss_hard=-6.8497
+(AD train epochs:0)
+time cost 2.319384813308716 s
+(T) | Epoch=0515, loss=7.8547, loss_hard=-6.8182
+(AD train epochs:0)
+time cost 2.1751527786254883 s
+(T) | Epoch=0516, loss=7.7935, loss_hard=-6.8223
+(AD train epochs:0)
+time cost 1.825439691543579 s
+(T) | Epoch=0517, loss=7.8122, loss_hard=-6.8400
+(AD train epochs:0)
+time cost 2.0271520614624023 s
+(T) | Epoch=0518, loss=7.8102, loss_hard=-6.8644
+(AD train epochs:0)
+time cost 2.0171658992767334 s
+(T) | Epoch=0519, loss=7.8130, loss_hard=-6.8533
+(AD train epochs:0)
+time cost 2.006795883178711 s
+(T) | Epoch=0520, loss=7.8162, loss_hard=-6.8829
+(AD train epochs:0)
+time cost 2.0628747940063477 s
+(T) | Epoch=0521, loss=7.8028, loss_hard=-6.8928
+(AD train epochs:0)
+time cost 2.019259214401245 s
+(T) | Epoch=0522, loss=7.8042, loss_hard=-6.8722
+(AD train epochs:0)
+time cost 2.2053024768829346 s
+(T) | Epoch=0523, loss=7.8106, loss_hard=-6.8547
+(AD train epochs:0)
+time cost 2.067032814025879 s
+(T) | Epoch=0524, loss=7.8080, loss_hard=-6.8942
+(AD train epochs:0)
+time cost 1.9789552688598633 s
+(T) | Epoch=0525, loss=7.8121, loss_hard=-6.8656
+(AD train epochs:0)
+time cost 2.068044424057007 s
+(T) | Epoch=0526, loss=7.8086, loss_hard=-6.8759
+(AD train epochs:0)
+time cost 2.0079073905944824 s
+(T) | Epoch=0527, loss=7.8115, loss_hard=-6.8812
+(AD train epochs:0)
+time cost 2.416969060897827 s
+(T) | Epoch=0528, loss=7.8008, loss_hard=-6.8884
+(AD train epochs:0)
+time cost 2.4362599849700928 s
+(T) | Epoch=0529, loss=7.8080, loss_hard=-6.8798
+(AD train epochs:0)
+time cost 2.4728589057922363 s
+(T) | Epoch=0530, loss=7.7942, loss_hard=-6.8830
+(AD train epochs:0)
+time cost 2.425766944885254 s
+(T) | Epoch=0531, loss=7.8136, loss_hard=-6.8755
+(AD train epochs:0)
+time cost 2.4322378635406494 s
+(T) | Epoch=0532, loss=7.8049, loss_hard=-6.8673
+(AD train epochs:0)
+time cost 2.47947359085083 s
+(T) | Epoch=0533, loss=7.8106, loss_hard=-6.8557
+(AD train epochs:0)
+time cost 2.2482314109802246 s
+(T) | Epoch=0534, loss=7.8285, loss_hard=-6.8728
+(AD train epochs:0)
+time cost 1.8380029201507568 s
+(T) | Epoch=0535, loss=7.8038, loss_hard=-6.8708
+(AD train epochs:0)
+time cost 2.0240745544433594 s
+(T) | Epoch=0536, loss=7.8101, loss_hard=-6.8544
+(AD train epochs:0)
+time cost 2.132974863052368 s
+(T) | Epoch=0537, loss=7.8127, loss_hard=-6.8771
+(AD train epochs:0)
+time cost 1.9013304710388184 s
+(T) | Epoch=0538, loss=7.7809, loss_hard=-6.8651
+(AD train epochs:0)
+time cost 2.1313869953155518 s
+(T) | Epoch=0539, loss=7.8123, loss_hard=-6.9068
+(AD train epochs:0)
+time cost 1.9518272876739502 s
+(T) | Epoch=0540, loss=7.8159, loss_hard=-6.8700
+(AD train epochs:0)
+time cost 2.079463481903076 s
+(T) | Epoch=0541, loss=7.7930, loss_hard=-6.8751
+(AD train epochs:0)
+time cost 1.9475758075714111 s
+(T) | Epoch=0542, loss=7.8045, loss_hard=-6.8868
+(AD train epochs:0)
+time cost 1.9329822063446045 s
+(T) | Epoch=0543, loss=7.8080, loss_hard=-6.8580
+(AD train epochs:0)
+time cost 2.09480619430542 s
+(T) | Epoch=0544, loss=7.7969, loss_hard=-6.8659
+(AD train epochs:0)
+time cost 2.0954601764678955 s
+(T) | Epoch=0545, loss=7.7859, loss_hard=-6.8792
+(AD train epochs:0)
+time cost 2.1187193393707275 s
+(T) | Epoch=0546, loss=7.7874, loss_hard=-6.8634
+(AD train epochs:0)
+time cost 2.241610050201416 s
+(T) | Epoch=0547, loss=7.7946, loss_hard=-6.8472
+(AD train epochs:0)
+time cost 2.1361160278320312 s
+(T) | Epoch=0548, loss=7.8184, loss_hard=-6.8483
+(AD train epochs:0)
+time cost 2.1338582038879395 s
+(T) | Epoch=0549, loss=7.8024, loss_hard=-6.8620
+(AD train epochs:0)
+time cost 2.0302176475524902 s
+(T) | Epoch=0550, loss=7.7896, loss_hard=-6.8556
+(AD train epochs:0)
+time cost 2.2270944118499756 s
+(T) | Epoch=0551, loss=7.7941, loss_hard=-6.8765
+(AD train epochs:0)
+time cost 2.143646001815796 s
+(T) | Epoch=0552, loss=7.7777, loss_hard=-6.8630
+(AD train epochs:0)
+time cost 2.3039636611938477 s
+(T) | Epoch=0553, loss=7.7835, loss_hard=-6.9164
+(AD train epochs:0)
+time cost 2.1555700302124023 s
+(T) | Epoch=0554, loss=7.7934, loss_hard=-6.8758
+(AD train epochs:0)
+time cost 2.0160508155822754 s
+(T) | Epoch=0555, loss=7.7762, loss_hard=-6.8760
+(AD train epochs:0)
+time cost 1.9862174987792969 s
+(T) | Epoch=0556, loss=7.7985, loss_hard=-6.9008
+(AD train epochs:0)
+time cost 1.953042984008789 s
+(T) | Epoch=0557, loss=7.8135, loss_hard=-6.8559
+(AD train epochs:0)
+time cost 2.08193039894104 s
+(T) | Epoch=0558, loss=7.7918, loss_hard=-6.8740
+(AD train epochs:0)
+time cost 2.2738802433013916 s
+(T) | Epoch=0559, loss=7.7663, loss_hard=-6.8708
+(AD train epochs:0)
+time cost 2.2489521503448486 s
+(T) | Epoch=0560, loss=7.7829, loss_hard=-6.8832
+(AD train epochs:0)
+time cost 2.130082845687866 s
+(T) | Epoch=0561, loss=7.7850, loss_hard=-6.8551
+(AD train epochs:0)
+time cost 2.1251556873321533 s
+(T) | Epoch=0562, loss=7.7895, loss_hard=-6.8517
+(AD train epochs:0)
+time cost 1.9870197772979736 s
+(T) | Epoch=0563, loss=7.7867, loss_hard=-6.8558
+(AD train epochs:0)
+time cost 2.367062568664551 s
+(T) | Epoch=0564, loss=7.7895, loss_hard=-6.8504
+(AD train epochs:0)
+time cost 2.1766276359558105 s
+(T) | Epoch=0565, loss=7.7818, loss_hard=-6.8709
+(AD train epochs:0)
+time cost 2.4386940002441406 s
+(T) | Epoch=0566, loss=7.7889, loss_hard=-6.8545
+(AD train epochs:0)
+time cost 2.124591827392578 s
+(T) | Epoch=0567, loss=7.7585, loss_hard=-6.8516
+(AD train epochs:0)
+time cost 2.1940689086914062 s
+(T) | Epoch=0568, loss=7.7808, loss_hard=-6.8621
+(AD train epochs:0)
+time cost 2.1955056190490723 s
+(T) | Epoch=0569, loss=7.7683, loss_hard=-6.8545
+(AD train epochs:0)
+time cost 2.1518073081970215 s
+(T) | Epoch=0570, loss=7.7859, loss_hard=-6.8409
+(AD train epochs:0)
+time cost 2.122004508972168 s
+(T) | Epoch=0571, loss=7.7783, loss_hard=-6.8728
+(AD train epochs:0)
+time cost 2.014399290084839 s
+(T) | Epoch=0572, loss=7.7920, loss_hard=-6.8662
+(AD train epochs:0)
+time cost 1.865410327911377 s
+(T) | Epoch=0573, loss=7.7855, loss_hard=-6.8860
+(AD train epochs:0)
+time cost 2.044095516204834 s
+(T) | Epoch=0574, loss=7.7831, loss_hard=-6.8600
+(AD train epochs:0)
+time cost 1.9724218845367432 s
+(T) | Epoch=0575, loss=7.7738, loss_hard=-6.8549
+(AD train epochs:0)
+time cost 2.2759811878204346 s
+(T) | Epoch=0576, loss=7.7850, loss_hard=-6.8663
+(AD train epochs:0)
+time cost 2.1359140872955322 s
+(T) | Epoch=0577, loss=7.7991, loss_hard=-6.8766
+(AD train epochs:0)
+time cost 2.174562931060791 s
+(T) | Epoch=0578, loss=7.7793, loss_hard=-6.8665
+(AD train epochs:0)
+time cost 2.1036341190338135 s
+(T) | Epoch=0579, loss=7.7695, loss_hard=-6.8588
+(AD train epochs:0)
+time cost 2.2014660835266113 s
+(T) | Epoch=0580, loss=7.7783, loss_hard=-6.8569
+(AD train epochs:0)
+time cost 2.0814356803894043 s
+(T) | Epoch=0581, loss=7.7913, loss_hard=-6.8673
+(AD train epochs:0)
+time cost 2.029489755630493 s
+(T) | Epoch=0582, loss=7.7577, loss_hard=-6.8469
+(AD train epochs:0)
+time cost 2.325787305831909 s
+(T) | Epoch=0583, loss=7.7670, loss_hard=-6.8705
+(AD train epochs:0)
+time cost 2.2758891582489014 s
+(T) | Epoch=0584, loss=7.7807, loss_hard=-6.8832
+(AD train epochs:0)
+time cost 2.3840692043304443 s
+(T) | Epoch=0585, loss=7.7573, loss_hard=-6.8728
+(AD train epochs:0)
+time cost 2.395402193069458 s
+(T) | Epoch=0586, loss=7.7614, loss_hard=-6.8807
+(AD train epochs:0)
+time cost 2.5132980346679688 s
+(T) | Epoch=0587, loss=7.7833, loss_hard=-6.8633
+(AD train epochs:0)
+time cost 2.244328498840332 s
+(T) | Epoch=0588, loss=7.7726, loss_hard=-6.9101
+(AD train epochs:0)
+time cost 2.2684426307678223 s
+(T) | Epoch=0589, loss=7.7812, loss_hard=-6.8890
+(AD train epochs:0)
+time cost 2.3366074562072754 s
+(T) | Epoch=0590, loss=7.7796, loss_hard=-6.8740
+(AD train epochs:0)
+time cost 2.109793186187744 s
+(T) | Epoch=0591, loss=7.7918, loss_hard=-6.8562
+(AD train epochs:0)
+time cost 1.9661293029785156 s
+(T) | Epoch=0592, loss=7.7880, loss_hard=-6.8736
+(AD train epochs:0)
+time cost 2.0323493480682373 s
+(T) | Epoch=0593, loss=7.7733, loss_hard=-6.8899
+(AD train epochs:0)
+time cost 1.9018125534057617 s
+(T) | Epoch=0594, loss=7.7674, loss_hard=-6.8606
+(AD train epochs:0)
+time cost 2.069145441055298 s
+(T) | Epoch=0595, loss=7.7742, loss_hard=-6.8671
+(AD train epochs:0)
+time cost 1.9882264137268066 s
+(T) | Epoch=0596, loss=7.8014, loss_hard=-6.8770
+(AD train epochs:0)
+time cost 1.8526976108551025 s
+(T) | Epoch=0597, loss=7.7725, loss_hard=-6.8512
+(AD train epochs:0)
+time cost 2.2314493656158447 s
+(T) | Epoch=0598, loss=7.7693, loss_hard=-6.8684
+(AD train epochs:0)
+time cost 1.9046530723571777 s
+(T) | Epoch=0599, loss=7.7848, loss_hard=-6.8605
+(AD train epochs:0)
+time cost 1.8753068447113037 s
+(T) | Epoch=0600, loss=7.8040, loss_hard=-6.8283
+(AD train epochs:0)
+time cost 2.200641393661499 s
+(T) | Epoch=0601, loss=7.7607, loss_hard=-6.8585
+(AD train epochs:0)
+time cost 2.4064133167266846 s
+(T) | Epoch=0602, loss=7.7806, loss_hard=-6.8403
+(AD train epochs:0)
+time cost 2.204803705215454 s
+(T) | Epoch=0603, loss=7.7843, loss_hard=-6.8647
+(AD train epochs:0)
+time cost 2.2121217250823975 s
+(T) | Epoch=0604, loss=7.7753, loss_hard=-6.8369
+(AD train epochs:0)
+time cost 2.40694260597229 s
+(T) | Epoch=0605, loss=7.7692, loss_hard=-6.8491
+(AD train epochs:0)
+time cost 2.4629123210906982 s
+(T) | Epoch=0606, loss=7.7659, loss_hard=-6.8491
+(AD train epochs:0)
+time cost 2.4488027095794678 s
+(T) | Epoch=0607, loss=7.7817, loss_hard=-6.8503
+(AD train epochs:0)
+time cost 2.1083877086639404 s
+(T) | Epoch=0608, loss=7.7829, loss_hard=-6.8441
+(AD train epochs:0)
+time cost 2.243522882461548 s
+(T) | Epoch=0609, loss=7.7702, loss_hard=-6.8449
+(AD train epochs:0)
+time cost 1.959406852722168 s
+(T) | Epoch=0610, loss=7.7662, loss_hard=-6.8340
+(AD train epochs:0)
+time cost 2.2623605728149414 s
+(T) | Epoch=0611, loss=7.7877, loss_hard=-6.8228
+(AD train epochs:0)
+time cost 2.048203945159912 s
+(T) | Epoch=0612, loss=7.7719, loss_hard=-6.8422
+(AD train epochs:0)
+time cost 1.9522571563720703 s
+(T) | Epoch=0613, loss=7.7847, loss_hard=-6.8577
+(AD train epochs:0)
+time cost 2.0723819732666016 s
+(T) | Epoch=0614, loss=7.7804, loss_hard=-6.8597
+(AD train epochs:0)
+time cost 2.05065655708313 s
+(T) | Epoch=0615, loss=7.7644, loss_hard=-6.8393
+(AD train epochs:0)
+time cost 1.987058401107788 s
+(T) | Epoch=0616, loss=7.7718, loss_hard=-6.8442
+(AD train epochs:0)
+time cost 1.9394376277923584 s
+(T) | Epoch=0617, loss=7.7646, loss_hard=-6.8368
+(AD train epochs:0)
+time cost 1.9403495788574219 s
+(T) | Epoch=0618, loss=7.7747, loss_hard=-6.8272
+(AD train epochs:0)
+time cost 2.050910711288452 s
+(T) | Epoch=0619, loss=7.7599, loss_hard=-6.8455
+(AD train epochs:0)
+time cost 2.238797664642334 s
+(T) | Epoch=0620, loss=7.7694, loss_hard=-6.8264
+(AD train epochs:0)
+time cost 2.3734078407287598 s
+(T) | Epoch=0621, loss=7.7684, loss_hard=-6.8388
+(AD train epochs:0)
+time cost 2.2369384765625 s
+(T) | Epoch=0622, loss=7.7634, loss_hard=-6.8466
+(AD train epochs:0)
+time cost 2.19657826423645 s
+(T) | Epoch=0623, loss=7.7597, loss_hard=-6.8801
+(AD train epochs:0)
+time cost 2.7134950160980225 s
+(T) | Epoch=0624, loss=7.7731, loss_hard=-6.8625
+(AD train epochs:0)
+time cost 2.613637924194336 s
+(T) | Epoch=0625, loss=7.7831, loss_hard=-6.8770
+(AD train epochs:0)
+time cost 2.4829022884368896 s
+(T) | Epoch=0626, loss=7.7726, loss_hard=-6.8426
+(AD train epochs:0)
+time cost 2.163485527038574 s
+(T) | Epoch=0627, loss=7.7775, loss_hard=-6.8601
+(AD train epochs:0)
+time cost 2.1632039546966553 s
+(T) | Epoch=0628, loss=7.7855, loss_hard=-6.8487
+(AD train epochs:0)
+time cost 1.89906907081604 s
+(T) | Epoch=0629, loss=7.7972, loss_hard=-6.8670
+(AD train epochs:0)
+time cost 2.0674524307250977 s
+(T) | Epoch=0630, loss=7.7982, loss_hard=-6.8523
+(AD train epochs:0)
+time cost 1.9883642196655273 s
+(T) | Epoch=0631, loss=7.7753, loss_hard=-6.8538
+(AD train epochs:0)
+time cost 2.027061700820923 s
+(T) | Epoch=0632, loss=7.7580, loss_hard=-6.8315
+(AD train epochs:0)
+time cost 2.0390703678131104 s
+(T) | Epoch=0633, loss=7.7682, loss_hard=-6.8581
+(AD train epochs:0)
+time cost 2.022887706756592 s
+(T) | Epoch=0634, loss=7.7641, loss_hard=-6.8573
+(AD train epochs:0)
+time cost 1.9269304275512695 s
+(T) | Epoch=0635, loss=7.7809, loss_hard=-6.8885
+(AD train epochs:0)
+time cost 2.211273193359375 s
+(T) | Epoch=0636, loss=7.7657, loss_hard=-6.8456
+(AD train epochs:0)
+time cost 2.0011088848114014 s
+(T) | Epoch=0637, loss=7.7740, loss_hard=-6.8361
+(AD train epochs:0)
+time cost 2.133870840072632 s
+(T) | Epoch=0638, loss=7.7519, loss_hard=-6.8283
+(AD train epochs:0)
+time cost 2.0423524379730225 s
+(T) | Epoch=0639, loss=7.7769, loss_hard=-6.8309
+(AD train epochs:0)
+time cost 2.3662264347076416 s
+(T) | Epoch=0640, loss=7.7595, loss_hard=-6.8572
+(AD train epochs:0)
+time cost 2.4871270656585693 s
+(T) | Epoch=0641, loss=7.7728, loss_hard=-6.8597
+(AD train epochs:0)
+time cost 2.4938502311706543 s
+(T) | Epoch=0642, loss=7.7668, loss_hard=-6.8461
+(AD train epochs:0)
+time cost 2.0564253330230713 s
+(T) | Epoch=0643, loss=7.7518, loss_hard=-6.8288
+(AD train epochs:0)
+time cost 2.1236681938171387 s
+(T) | Epoch=0644, loss=7.7733, loss_hard=-6.8488
+(AD train epochs:0)
+time cost 2.49688720703125 s
+(T) | Epoch=0645, loss=7.7997, loss_hard=-6.8305
+(AD train epochs:0)
+time cost 2.118297815322876 s
+(T) | Epoch=0646, loss=7.7490, loss_hard=-6.8502
+(AD train epochs:0)
+time cost 2.275113821029663 s
+(T) | Epoch=0647, loss=7.7703, loss_hard=-6.8513
+(AD train epochs:0)
+time cost 2.1218020915985107 s
+(T) | Epoch=0648, loss=7.7842, loss_hard=-6.8513
+(AD train epochs:0)
+time cost 2.107391357421875 s
+(T) | Epoch=0649, loss=7.7625, loss_hard=-6.8381
+(AD train epochs:0)
+time cost 1.9942755699157715 s
+(T) | Epoch=0650, loss=7.7733, loss_hard=-6.8718
+(AD train epochs:0)
+time cost 2.1496987342834473 s
+(T) | Epoch=0651, loss=7.7694, loss_hard=-6.8341
+(AD train epochs:0)
+time cost 2.008990526199341 s
+(T) | Epoch=0652, loss=7.7622, loss_hard=-6.8324
+(AD train epochs:0)
+time cost 2.129877805709839 s
+(T) | Epoch=0653, loss=7.7745, loss_hard=-6.8442
+(AD train epochs:0)
+time cost 2.0223913192749023 s
+(T) | Epoch=0654, loss=7.7743, loss_hard=-6.8405
+(AD train epochs:0)
+time cost 2.084110975265503 s
+(T) | Epoch=0655, loss=7.7664, loss_hard=-6.8024
+(AD train epochs:0)
+time cost 1.9577949047088623 s
+(T) | Epoch=0656, loss=7.7586, loss_hard=-6.8456
+(AD train epochs:0)
+time cost 2.1968789100646973 s
+(T) | Epoch=0657, loss=7.7705, loss_hard=-6.8414
+(AD train epochs:0)
+time cost 2.1363911628723145 s
+(T) | Epoch=0658, loss=7.7751, loss_hard=-6.8336
+(AD train epochs:0)
+time cost 2.3469021320343018 s
+(T) | Epoch=0659, loss=7.7716, loss_hard=-6.8309
+(AD train epochs:0)
+time cost 2.2442054748535156 s
+(T) | Epoch=0660, loss=7.7633, loss_hard=-6.8180
+(AD train epochs:0)
+time cost 2.213219165802002 s
+(T) | Epoch=0661, loss=7.7454, loss_hard=-6.8218
+(AD train epochs:0)
+time cost 2.7555956840515137 s
+(T) | Epoch=0662, loss=7.7726, loss_hard=-6.8184
+(AD train epochs:0)
+time cost 2.5960896015167236 s
+(T) | Epoch=0663, loss=7.7568, loss_hard=-6.8332
+(AD train epochs:0)
+time cost 2.7255516052246094 s
+(T) | Epoch=0664, loss=7.7833, loss_hard=-6.8304
+(AD train epochs:0)
+time cost 2.238337278366089 s
+(T) | Epoch=0665, loss=7.7593, loss_hard=-6.8333
+(AD train epochs:0)
+time cost 2.107996702194214 s
+(T) | Epoch=0666, loss=7.7780, loss_hard=-6.8453
+(AD train epochs:0)
+time cost 2.469373941421509 s
+(T) | Epoch=0667, loss=7.7578, loss_hard=-6.8189
+(AD train epochs:0)
+time cost 1.9904470443725586 s
+(T) | Epoch=0668, loss=7.7537, loss_hard=-6.8458
+(AD train epochs:0)
+time cost 2.3541970252990723 s
+(T) | Epoch=0669, loss=7.7565, loss_hard=-6.8243
+(AD train epochs:0)
+time cost 2.2769761085510254 s
+(T) | Epoch=0670, loss=7.7590, loss_hard=-6.8522
+(AD train epochs:0)
+time cost 2.3827712535858154 s
+(T) | Epoch=0671, loss=7.7469, loss_hard=-6.8437
+(AD train epochs:0)
+time cost 2.2336556911468506 s
+(T) | Epoch=0672, loss=7.7650, loss_hard=-6.8296
+(AD train epochs:0)
+time cost 2.360914945602417 s
+(T) | Epoch=0673, loss=7.7574, loss_hard=-6.8412
+(AD train epochs:0)
+time cost 2.3225154876708984 s
+(T) | Epoch=0674, loss=7.7731, loss_hard=-6.8450
+(AD train epochs:0)
+time cost 2.403700828552246 s
+(T) | Epoch=0675, loss=7.7635, loss_hard=-6.8619
+(AD train epochs:0)
+time cost 2.143296480178833 s
+(T) | Epoch=0676, loss=7.7645, loss_hard=-6.8651
+(AD train epochs:0)
+time cost 2.2107162475585938 s
+(T) | Epoch=0677, loss=7.7473, loss_hard=-6.8391
+(AD train epochs:0)
+time cost 2.3215692043304443 s
+(T) | Epoch=0678, loss=7.7523, loss_hard=-6.8413
+(AD train epochs:0)
+time cost 2.607524871826172 s
+(T) | Epoch=0679, loss=7.7432, loss_hard=-6.8576
+(AD train epochs:0)
+time cost 2.171992778778076 s
+(T) | Epoch=0680, loss=7.7511, loss_hard=-6.8462
+(AD train epochs:0)
+time cost 2.436004638671875 s
+(T) | Epoch=0681, loss=7.7458, loss_hard=-6.8531
+(AD train epochs:0)
+time cost 2.598205327987671 s
+(T) | Epoch=0682, loss=7.7583, loss_hard=-6.8526
+(AD train epochs:0)
+time cost 2.601120710372925 s
+(T) | Epoch=0683, loss=7.7713, loss_hard=-6.8353
+(AD train epochs:0)
+time cost 2.620567798614502 s
+(T) | Epoch=0684, loss=7.7439, loss_hard=-6.8567
+(AD train epochs:0)
+time cost 2.5769665241241455 s
+(T) | Epoch=0685, loss=7.7738, loss_hard=-6.8420
+(AD train epochs:0)
+time cost 2.337275266647339 s
+(T) | Epoch=0686, loss=7.7384, loss_hard=-6.8345
+(AD train epochs:0)
+time cost 2.2600414752960205 s
+(T) | Epoch=0687, loss=7.7469, loss_hard=-6.8379
+(AD train epochs:0)
+time cost 2.421217918395996 s
+(T) | Epoch=0688, loss=7.7681, loss_hard=-6.8586
+(AD train epochs:0)
+time cost 2.3013172149658203 s
+(T) | Epoch=0689, loss=7.7394, loss_hard=-6.8338
+(AD train epochs:0)
+time cost 2.4225292205810547 s
+(T) | Epoch=0690, loss=7.7344, loss_hard=-6.8480
+(AD train epochs:0)
+time cost 2.2966384887695312 s
+(T) | Epoch=0691, loss=7.8519, loss_hard=-6.8740
+(AD train epochs:0)
+time cost 2.3927173614501953 s
+(T) | Epoch=0692, loss=7.7579, loss_hard=-6.8347
+(AD train epochs:0)
+time cost 2.2667582035064697 s
+(T) | Epoch=0693, loss=7.7616, loss_hard=-6.8593
+(AD train epochs:0)
+time cost 2.5077342987060547 s
+(T) | Epoch=0694, loss=7.7640, loss_hard=-6.8626
+(AD train epochs:0)
+time cost 2.0998756885528564 s
+(T) | Epoch=0695, loss=7.7425, loss_hard=-6.8635
+(AD train epochs:0)
+time cost 2.134906530380249 s
+(T) | Epoch=0696, loss=7.7706, loss_hard=-6.8461
+(AD train epochs:0)
+time cost 2.1691298484802246 s
+(T) | Epoch=0697, loss=7.7601, loss_hard=-6.8425
+(AD train epochs:0)
+time cost 2.4840574264526367 s
+(T) | Epoch=0698, loss=7.7579, loss_hard=-6.8551
+(AD train epochs:0)
+time cost 2.45992112159729 s
+(T) | Epoch=0699, loss=7.7713, loss_hard=-6.8684
+(AD train epochs:0)
+time cost 2.6773667335510254 s
+(T) | Epoch=0700, loss=7.7767, loss_hard=-6.8516
+(AD train epochs:0)
+time cost 2.4803378582000732 s
+(T) | Epoch=0701, loss=7.7380, loss_hard=-6.8552
+(AD train epochs:0)
+time cost 2.66745662689209 s
+(T) | Epoch=0702, loss=7.7597, loss_hard=-6.8560
+(AD train epochs:0)
+time cost 2.593060255050659 s
+(T) | Epoch=0703, loss=7.7530, loss_hard=-6.8594
+(AD train epochs:0)
+time cost 2.6487295627593994 s
+(T) | Epoch=0704, loss=7.7431, loss_hard=-6.8568
+(AD train epochs:0)
+time cost 2.342618465423584 s
+(T) | Epoch=0705, loss=7.7590, loss_hard=-6.8977
+(AD train epochs:0)
+time cost 2.3097262382507324 s
+(T) | Epoch=0706, loss=7.7442, loss_hard=-6.8971
+(AD train epochs:0)
+time cost 2.4309287071228027 s
+(T) | Epoch=0707, loss=7.7393, loss_hard=-6.8633
+(AD train epochs:0)
+time cost 2.5613670349121094 s
+(T) | Epoch=0708, loss=7.7813, loss_hard=-6.8705
+(AD train epochs:0)
+time cost 2.2369377613067627 s
+(T) | Epoch=0709, loss=7.8215, loss_hard=-6.8481
+(AD train epochs:0)
+time cost 2.395242929458618 s
+(T) | Epoch=0710, loss=7.7579, loss_hard=-6.8822
+(AD train epochs:0)
+time cost 2.295036792755127 s
+(T) | Epoch=0711, loss=7.7899, loss_hard=-6.8702
+(AD train epochs:0)
+time cost 2.288994550704956 s
+(T) | Epoch=0712, loss=7.7758, loss_hard=-6.8553
+(AD train epochs:0)
+time cost 2.1682112216949463 s
+(T) | Epoch=0713, loss=7.7637, loss_hard=-6.8609
+(AD train epochs:0)
+time cost 2.2129077911376953 s
+(T) | Epoch=0714, loss=7.7922, loss_hard=-6.8713
+(AD train epochs:0)
+time cost 2.3809518814086914 s
+(T) | Epoch=0715, loss=7.7979, loss_hard=-6.8790
+(AD train epochs:0)
+time cost 2.233088254928589 s
+(T) | Epoch=0716, loss=7.7746, loss_hard=-6.8681
+(AD train epochs:0)
+time cost 2.2711546421051025 s
+(T) | Epoch=0717, loss=7.7717, loss_hard=-6.8905
+(AD train epochs:0)
+time cost 2.180898427963257 s
+(T) | Epoch=0718, loss=7.7755, loss_hard=-6.8743
+(AD train epochs:0)
+time cost 2.448957681655884 s
+(T) | Epoch=0719, loss=7.7797, loss_hard=-6.8703
+(AD train epochs:0)
+time cost 2.3604366779327393 s
+(T) | Epoch=0720, loss=7.8115, loss_hard=-6.8527
+(AD train epochs:0)
+time cost 2.312042236328125 s
+(T) | Epoch=0721, loss=7.7665, loss_hard=-6.8659
+(AD train epochs:0)
+time cost 2.2292468547821045 s
+(T) | Epoch=0722, loss=7.7723, loss_hard=-6.8783
+(AD train epochs:0)
+time cost 2.5723037719726562 s
+(T) | Epoch=0723, loss=7.7629, loss_hard=-6.8527
+(AD train epochs:0)
+time cost 2.3211631774902344 s
+(T) | Epoch=0724, loss=7.7838, loss_hard=-6.8475
+(AD train epochs:0)
+time cost 2.414614200592041 s
+(T) | Epoch=0725, loss=7.7564, loss_hard=-6.8473
+(AD train epochs:0)
+time cost 2.478306293487549 s
+(T) | Epoch=0726, loss=7.7712, loss_hard=-6.8470
+(AD train epochs:0)
+time cost 2.6022706031799316 s
+(T) | Epoch=0727, loss=7.7611, loss_hard=-6.8469
+(AD train epochs:0)
+time cost 2.7326650619506836 s
+(T) | Epoch=0728, loss=7.7413, loss_hard=-6.8421
+(AD train epochs:0)
+time cost 2.368957042694092 s
+(T) | Epoch=0729, loss=7.7599, loss_hard=-6.8539
+(AD train epochs:0)
+time cost 2.1704342365264893 s
+(T) | Epoch=0730, loss=7.7585, loss_hard=-6.8424
+(AD train epochs:0)
+time cost 2.1099560260772705 s
+(T) | Epoch=0731, loss=7.7914, loss_hard=-6.8322
+(AD train epochs:0)
+time cost 2.0710084438323975 s
+(T) | Epoch=0732, loss=7.7464, loss_hard=-6.8438
+(AD train epochs:0)
+time cost 2.1374266147613525 s
+(T) | Epoch=0733, loss=7.7546, loss_hard=-6.8547
+(AD train epochs:0)
+time cost 2.2557926177978516 s
+(T) | Epoch=0734, loss=7.7536, loss_hard=-6.8600
+(AD train epochs:0)
+time cost 2.57677960395813 s
+(T) | Epoch=0735, loss=7.7526, loss_hard=-6.8396
+(AD train epochs:0)
+time cost 2.2251217365264893 s
+(T) | Epoch=0736, loss=7.7486, loss_hard=-6.8394
+(AD train epochs:0)
+time cost 2.2767508029937744 s
+(T) | Epoch=0737, loss=7.7547, loss_hard=-6.8495
+(AD train epochs:0)
+time cost 2.1562581062316895 s
+(T) | Epoch=0738, loss=7.7488, loss_hard=-6.8710
+(AD train epochs:0)
+time cost 2.4199132919311523 s
+(T) | Epoch=0739, loss=7.7508, loss_hard=-6.8438
+(AD train epochs:0)
+time cost 2.5625314712524414 s
+(T) | Epoch=0740, loss=7.7608, loss_hard=-6.8353
+(AD train epochs:0)
+time cost 2.459421396255493 s
+(T) | Epoch=0741, loss=7.7512, loss_hard=-6.9140
+(AD train epochs:0)
+time cost 2.436063051223755 s
+(T) | Epoch=0742, loss=7.7395, loss_hard=-6.8473
+(AD train epochs:0)
+time cost 2.702660322189331 s
+(T) | Epoch=0743, loss=7.7524, loss_hard=-6.8386
+(AD train epochs:0)
+time cost 2.513636350631714 s
+(T) | Epoch=0744, loss=7.7425, loss_hard=-6.8436
+(AD train epochs:0)
+time cost 2.6776766777038574 s
+(T) | Epoch=0745, loss=7.7386, loss_hard=-6.8354
+(AD train epochs:0)
+time cost 2.4125211238861084 s
+(T) | Epoch=0746, loss=7.7502, loss_hard=-6.8409
+(AD train epochs:0)
+time cost 2.4593725204467773 s
+(T) | Epoch=0747, loss=7.7797, loss_hard=-6.8453
+(AD train epochs:0)
+time cost 2.466597318649292 s
+(T) | Epoch=0748, loss=7.7585, loss_hard=-6.8857
+(AD train epochs:0)
+time cost 2.307129144668579 s
+(T) | Epoch=0749, loss=7.7531, loss_hard=-6.8414
+(AD train epochs:0)
+time cost 2.515878200531006 s
+(T) | Epoch=0750, loss=7.7671, loss_hard=-6.8418
+(AD train epochs:0)
+time cost 2.069199800491333 s
+(T) | Epoch=0751, loss=7.7812, loss_hard=-6.8306
+(AD train epochs:0)
+time cost 2.338205575942993 s
+(T) | Epoch=0752, loss=7.7302, loss_hard=-6.8502
+(AD train epochs:0)
+time cost 2.4786605834960938 s
+(T) | Epoch=0753, loss=7.7677, loss_hard=-6.8669
+(AD train epochs:0)
+time cost 2.202718734741211 s
+(T) | Epoch=0754, loss=7.7942, loss_hard=-6.8757
+(AD train epochs:0)
+time cost 2.1551949977874756 s
+(T) | Epoch=0755, loss=7.7584, loss_hard=-6.8406
+(AD train epochs:0)
+time cost 2.4565775394439697 s
+(T) | Epoch=0756, loss=7.7697, loss_hard=-6.8557
+(AD train epochs:0)
+time cost 2.0449867248535156 s
+(T) | Epoch=0757, loss=7.7745, loss_hard=-6.8571
+(AD train epochs:0)
+time cost 2.2703216075897217 s
+(T) | Epoch=0758, loss=7.7523, loss_hard=-6.8564
+(AD train epochs:0)
+time cost 2.2940776348114014 s
+(T) | Epoch=0759, loss=7.7649, loss_hard=-6.8562
+(AD train epochs:0)
+time cost 2.1622884273529053 s
+(T) | Epoch=0760, loss=7.7581, loss_hard=-6.8605
+(AD train epochs:0)
+time cost 2.416708469390869 s
+(T) | Epoch=0761, loss=7.7477, loss_hard=-6.8594
+(AD train epochs:0)
+time cost 2.2390317916870117 s
+(T) | Epoch=0762, loss=7.7391, loss_hard=-6.8342
+(AD train epochs:0)
+time cost 2.6826562881469727 s
+(T) | Epoch=0763, loss=7.7485, loss_hard=-6.8524
+(AD train epochs:0)
+time cost 2.4976871013641357 s
+(T) | Epoch=0764, loss=7.7431, loss_hard=-6.8639
+(AD train epochs:0)
+time cost 2.428422451019287 s
+(T) | Epoch=0765, loss=7.7499, loss_hard=-6.8352
+(AD train epochs:0)
+time cost 2.236583948135376 s
+(T) | Epoch=0766, loss=7.7702, loss_hard=-6.8492
+(AD train epochs:0)
+time cost 2.7648191452026367 s
+(T) | Epoch=0767, loss=7.7525, loss_hard=-6.8263
+(AD train epochs:0)
+time cost 2.530062198638916 s
+(T) | Epoch=0768, loss=7.7367, loss_hard=-6.8431
+(AD train epochs:0)
+time cost 2.6884565353393555 s
+(T) | Epoch=0769, loss=7.7281, loss_hard=-6.8684
+(AD train epochs:0)
+time cost 2.457155227661133 s
+(T) | Epoch=0770, loss=7.7691, loss_hard=-6.8967
+(AD train epochs:0)
+time cost 2.460925340652466 s
+(T) | Epoch=0771, loss=7.7663, loss_hard=-6.8632
+(AD train epochs:0)
+time cost 2.2372636795043945 s
+(T) | Epoch=0772, loss=7.7490, loss_hard=-6.8574
+(AD train epochs:0)
+time cost 3.070188045501709 s
+(T) | Epoch=0773, loss=7.7418, loss_hard=-6.8463
+(AD train epochs:0)
+time cost 2.330132007598877 s
+(T) | Epoch=0774, loss=7.7283, loss_hard=-6.8667
+(AD train epochs:0)
+time cost 2.345254421234131 s
+(T) | Epoch=0775, loss=7.7329, loss_hard=-6.8344
+(AD train epochs:0)
+time cost 2.6474902629852295 s
+(T) | Epoch=0776, loss=7.7241, loss_hard=-6.8857
+(AD train epochs:0)
+time cost 2.3776257038116455 s
+(T) | Epoch=0777, loss=7.7538, loss_hard=-6.8618
+(AD train epochs:0)
+time cost 2.1976306438446045 s
+(T) | Epoch=0778, loss=7.7559, loss_hard=-6.8596
+(AD train epochs:0)
+time cost 2.455747604370117 s
+(T) | Epoch=0779, loss=7.7401, loss_hard=-6.8826
+(AD train epochs:0)
+time cost 2.421522855758667 s
+(T) | Epoch=0780, loss=7.7484, loss_hard=-6.8834
+(AD train epochs:0)
+time cost 2.294327735900879 s
+(T) | Epoch=0781, loss=7.7479, loss_hard=-6.8523
+(AD train epochs:0)
+time cost 2.3226048946380615 s
+(T) | Epoch=0782, loss=7.7399, loss_hard=-6.8569
+(AD train epochs:0)
+time cost 2.5433545112609863 s
+(T) | Epoch=0783, loss=7.7426, loss_hard=-6.8813
+(AD train epochs:0)
+time cost 2.732117176055908 s
+(T) | Epoch=0784, loss=7.7307, loss_hard=-6.8776
+(AD train epochs:0)
+time cost 2.720515251159668 s
+(T) | Epoch=0785, loss=7.7403, loss_hard=-6.8635
+(AD train epochs:0)
+time cost 2.8352627754211426 s
+(T) | Epoch=0786, loss=7.7651, loss_hard=-6.8623
+(AD train epochs:0)
+time cost 2.7989108562469482 s
+(T) | Epoch=0787, loss=7.7282, loss_hard=-6.8847
+(AD train epochs:0)
+time cost 2.4200451374053955 s
+(T) | Epoch=0788, loss=7.7452, loss_hard=-6.8764
+(AD train epochs:0)
+time cost 2.7491629123687744 s
+(T) | Epoch=0789, loss=7.7346, loss_hard=-6.8514
+(AD train epochs:0)
+time cost 2.6462295055389404 s
+(T) | Epoch=0790, loss=7.7343, loss_hard=-6.8482
+(AD train epochs:0)
+time cost 2.4815919399261475 s
+(T) | Epoch=0791, loss=7.7468, loss_hard=-6.8326
+(AD train epochs:0)
+time cost 2.4045302867889404 s
+(T) | Epoch=0792, loss=7.7266, loss_hard=-6.8535
+(AD train epochs:0)
+time cost 2.4343018531799316 s
+(T) | Epoch=0793, loss=7.7439, loss_hard=-6.8411
+(AD train epochs:0)
+time cost 2.4269297122955322 s
+(T) | Epoch=0794, loss=7.7428, loss_hard=-6.8354
+(AD train epochs:0)
+time cost 2.3826725482940674 s
+(T) | Epoch=0795, loss=7.7491, loss_hard=-6.8629
+(AD train epochs:0)
+time cost 2.171259880065918 s
+(T) | Epoch=0796, loss=7.7251, loss_hard=-6.8472
+(AD train epochs:0)
+time cost 2.492649555206299 s
+(T) | Epoch=0797, loss=7.7553, loss_hard=-6.8585
+(AD train epochs:0)
+time cost 2.4829537868499756 s
+(T) | Epoch=0798, loss=7.7619, loss_hard=-6.8330
+(AD train epochs:0)
+time cost 2.288161277770996 s
+(T) | Epoch=0799, loss=7.7308, loss_hard=-6.8685
+(AD train epochs:0)
+time cost 2.1404800415039062 s
+(T) | Epoch=0800, loss=7.7481, loss_hard=-6.8704
+(AD train epochs:0)
+time cost 2.667236328125 s
+(T) | Epoch=0801, loss=7.7373, loss_hard=-6.8393
+(AD train epochs:0)
+time cost 2.302783966064453 s
+(T) | Epoch=0802, loss=7.7516, loss_hard=-6.8575
+(AD train epochs:0)
+time cost 2.637812614440918 s
+(T) | Epoch=0803, loss=7.7341, loss_hard=-6.8768
+(AD train epochs:0)
+time cost 2.519024133682251 s
+(T) | Epoch=0804, loss=7.7466, loss_hard=-6.8614
+(AD train epochs:0)
+time cost 2.57733154296875 s
+(T) | Epoch=0805, loss=7.7387, loss_hard=-6.8482
+(AD train epochs:0)
+time cost 2.3613548278808594 s
+(T) | Epoch=0806, loss=7.7382, loss_hard=-6.8568
+(AD train epochs:0)
+time cost 2.734619140625 s
+(T) | Epoch=0807, loss=7.7574, loss_hard=-6.8549
+(AD train epochs:0)
+time cost 2.3430213928222656 s
+(T) | Epoch=0808, loss=7.7393, loss_hard=-6.8510
+(AD train epochs:0)
+time cost 2.643463611602783 s
+(T) | Epoch=0809, loss=7.7437, loss_hard=-6.8426
+(AD train epochs:0)
+time cost 2.1805474758148193 s
+(T) | Epoch=0810, loss=7.7497, loss_hard=-6.8396
+(AD train epochs:0)
+time cost 2.351539134979248 s
+(T) | Epoch=0811, loss=7.7276, loss_hard=-6.8390
+(AD train epochs:0)
+time cost 2.071061134338379 s
+(T) | Epoch=0812, loss=7.7422, loss_hard=-6.8380
+(AD train epochs:0)
+time cost 2.298842430114746 s
+(T) | Epoch=0813, loss=7.7458, loss_hard=-6.8546
+(AD train epochs:0)
+time cost 2.3247272968292236 s
+(T) | Epoch=0814, loss=7.7330, loss_hard=-6.8405
+(AD train epochs:0)
+time cost 2.426041603088379 s
+(T) | Epoch=0815, loss=7.7320, loss_hard=-6.8408
+(AD train epochs:0)
+time cost 2.4539425373077393 s
+(T) | Epoch=0816, loss=7.7266, loss_hard=-6.8385
+(AD train epochs:0)
+time cost 2.182421922683716 s
+(T) | Epoch=0817, loss=7.7298, loss_hard=-6.8564
+(AD train epochs:0)
+time cost 2.268508195877075 s
+(T) | Epoch=0818, loss=7.7395, loss_hard=-6.8509
+(AD train epochs:0)
+time cost 2.4017903804779053 s
+(T) | Epoch=0819, loss=7.7248, loss_hard=-6.8468
+(AD train epochs:0)
+time cost 2.3048501014709473 s
+(T) | Epoch=0820, loss=7.7553, loss_hard=-6.8567
+(AD train epochs:0)
+time cost 2.3675520420074463 s
+(T) | Epoch=0821, loss=7.7288, loss_hard=-6.8478
+(AD train epochs:0)
+time cost 2.807878255844116 s
+(T) | Epoch=0822, loss=7.7300, loss_hard=-6.8418
+(AD train epochs:0)
+time cost 2.438652515411377 s
+(T) | Epoch=0823, loss=7.7560, loss_hard=-6.8391
+(AD train epochs:0)
+time cost 2.5969793796539307 s
+(T) | Epoch=0824, loss=7.7326, loss_hard=-6.8547
+(AD train epochs:0)
+time cost 2.2959299087524414 s
+(T) | Epoch=0825, loss=7.7277, loss_hard=-6.8731
+(AD train epochs:0)
+time cost 2.3819942474365234 s
+(T) | Epoch=0826, loss=7.7487, loss_hard=-6.8423
+(AD train epochs:0)
+time cost 2.4735264778137207 s
+(T) | Epoch=0827, loss=7.7129, loss_hard=-6.8577
+(AD train epochs:0)
+time cost 2.839627265930176 s
+(T) | Epoch=0828, loss=7.7258, loss_hard=-6.9093
+(AD train epochs:0)
+time cost 2.1256425380706787 s
+(T) | Epoch=0829, loss=7.7140, loss_hard=-6.8437
+(AD train epochs:0)
+time cost 2.462002754211426 s
+(T) | Epoch=0830, loss=7.7217, loss_hard=-6.8685
+(AD train epochs:0)
+time cost 2.5730788707733154 s
+(T) | Epoch=0831, loss=7.7458, loss_hard=-6.8473
+(AD train epochs:0)
+time cost 2.4633288383483887 s
+(T) | Epoch=0832, loss=7.7380, loss_hard=-6.8389
+(AD train epochs:0)
+time cost 2.0964667797088623 s
+(T) | Epoch=0833, loss=7.7401, loss_hard=-6.8533
+(AD train epochs:0)
+time cost 2.426454544067383 s
+(T) | Epoch=0834, loss=7.7253, loss_hard=-6.8330
+(AD train epochs:0)
+time cost 2.5009000301361084 s
+(T) | Epoch=0835, loss=7.7290, loss_hard=-6.8476
+(AD train epochs:0)
+time cost 2.3074300289154053 s
+(T) | Epoch=0836, loss=7.7183, loss_hard=-6.8590
+(AD train epochs:0)
+time cost 2.390187978744507 s
+(T) | Epoch=0837, loss=7.7271, loss_hard=-6.8171
+(AD train epochs:0)
+time cost 2.177858352661133 s
+(T) | Epoch=0838, loss=7.7481, loss_hard=-6.8448
+(AD train epochs:0)
+time cost 2.032849073410034 s
+(T) | Epoch=0839, loss=7.7388, loss_hard=-6.8508
+(AD train epochs:0)
+time cost 2.192788600921631 s
+(T) | Epoch=0840, loss=7.7969, loss_hard=-6.8410
+(AD train epochs:0)
+time cost 2.2789130210876465 s
+(T) | Epoch=0841, loss=7.7526, loss_hard=-6.8408
+(AD train epochs:0)
+time cost 2.44832444190979 s
+(T) | Epoch=0842, loss=7.7520, loss_hard=-6.8415
+(AD train epochs:0)
+time cost 2.159168243408203 s
+(T) | Epoch=0843, loss=7.7215, loss_hard=-6.8412
+(AD train epochs:0)
+time cost 2.224393844604492 s
+(T) | Epoch=0844, loss=7.7540, loss_hard=-6.8306
+(AD train epochs:0)
+time cost 2.2597553730010986 s
+(T) | Epoch=0845, loss=7.7256, loss_hard=-6.8461
+(AD train epochs:0)
+time cost 2.3811287879943848 s
+(T) | Epoch=0846, loss=7.7249, loss_hard=-6.8312
+(AD train epochs:0)
+time cost 2.2706644535064697 s
+(T) | Epoch=0847, loss=7.7146, loss_hard=-6.8154
+(AD train epochs:0)
+time cost 2.7340245246887207 s
+(T) | Epoch=0848, loss=7.7350, loss_hard=-6.8198
+(AD train epochs:0)
+time cost 2.255664348602295 s
+(T) | Epoch=0849, loss=7.7219, loss_hard=-6.8350
+(AD train epochs:0)
+time cost 2.625293254852295 s
+(T) | Epoch=0850, loss=7.7404, loss_hard=-6.8179
+(AD train epochs:0)
+time cost 2.706930637359619 s
+(T) | Epoch=0851, loss=7.7288, loss_hard=-6.8325
+(AD train epochs:0)
+time cost 2.4270517826080322 s
+(T) | Epoch=0852, loss=7.7477, loss_hard=-6.8345
+(AD train epochs:0)
+time cost 2.3351194858551025 s
+(T) | Epoch=0853, loss=7.7253, loss_hard=-6.8395
+(AD train epochs:0)
+time cost 2.3682515621185303 s
+(T) | Epoch=0854, loss=7.7389, loss_hard=-6.8360
+(AD train epochs:0)
+time cost 2.225214719772339 s
+(T) | Epoch=0855, loss=7.7291, loss_hard=-6.8201
+(AD train epochs:0)
+time cost 2.401125192642212 s
+(T) | Epoch=0856, loss=7.7054, loss_hard=-6.8214
+(AD train epochs:0)
+time cost 2.48026704788208 s
+(T) | Epoch=0857, loss=7.7237, loss_hard=-6.8229
+(AD train epochs:0)
+time cost 2.410719156265259 s
+(T) | Epoch=0858, loss=7.7158, loss_hard=-6.8173
+(AD train epochs:0)
+time cost 2.1798360347747803 s
+(T) | Epoch=0859, loss=7.7254, loss_hard=-6.8326
+(AD train epochs:0)
+time cost 1.9963064193725586 s
+(T) | Epoch=0860, loss=7.7369, loss_hard=-6.8253
+(AD train epochs:0)
+time cost 2.2523837089538574 s
+(T) | Epoch=0861, loss=7.7343, loss_hard=-6.8409
+(AD train epochs:0)
+time cost 2.1845877170562744 s
+(T) | Epoch=0862, loss=7.7428, loss_hard=-6.8483
+(AD train epochs:0)
+time cost 2.575974702835083 s
+(T) | Epoch=0863, loss=7.7266, loss_hard=-6.8281
+(AD train epochs:0)
+time cost 2.720724105834961 s
+(T) | Epoch=0864, loss=7.7199, loss_hard=-6.8419
+(AD train epochs:0)
+time cost 2.162693500518799 s
+(T) | Epoch=0865, loss=7.7362, loss_hard=-6.8362
+(AD train epochs:0)
+time cost 2.6725335121154785 s
+(T) | Epoch=0866, loss=7.7196, loss_hard=-6.8320
+(AD train epochs:0)
+time cost 2.645341157913208 s
+(T) | Epoch=0867, loss=7.7323, loss_hard=-6.8282
+(AD train epochs:0)
+time cost 2.51296067237854 s
+(T) | Epoch=0868, loss=7.7300, loss_hard=-6.8173
+(AD train epochs:0)
+time cost 2.5092270374298096 s
+(T) | Epoch=0869, loss=7.7339, loss_hard=-6.8284
+(AD train epochs:0)
+time cost 2.5589067935943604 s
+(T) | Epoch=0870, loss=7.7328, loss_hard=-6.8473
+(AD train epochs:0)
+time cost 2.5267539024353027 s
+(T) | Epoch=0871, loss=7.7257, loss_hard=-6.8457
+(AD train epochs:0)
+time cost 2.5035252571105957 s
+(T) | Epoch=0872, loss=7.7196, loss_hard=-6.8499
+(AD train epochs:0)
+time cost 2.0981624126434326 s
+(T) | Epoch=0873, loss=7.7665, loss_hard=-6.8162
+(AD train epochs:0)
+time cost 2.285045862197876 s
+(T) | Epoch=0874, loss=7.7229, loss_hard=-6.8415
+(AD train epochs:0)
+time cost 2.197118043899536 s
+(T) | Epoch=0875, loss=7.7474, loss_hard=-6.9048
+(AD train epochs:0)
+time cost 2.105436325073242 s
+(T) | Epoch=0876, loss=7.7368, loss_hard=-6.8527
+(AD train epochs:0)
+time cost 2.341543674468994 s
+(T) | Epoch=0877, loss=7.7432, loss_hard=-6.8947
+(AD train epochs:0)
+time cost 2.1338329315185547 s
+(T) | Epoch=0878, loss=7.7176, loss_hard=-6.8489
+(AD train epochs:0)
+time cost 2.2163190841674805 s
+(T) | Epoch=0879, loss=7.7286, loss_hard=-6.8560
+(AD train epochs:0)
+time cost 2.331448554992676 s
+(T) | Epoch=0880, loss=7.7337, loss_hard=-6.8427
+(AD train epochs:0)
+time cost 2.215099811553955 s
+(T) | Epoch=0881, loss=7.7341, loss_hard=-6.8416
+(AD train epochs:0)
+time cost 2.261039972305298 s
+(T) | Epoch=0882, loss=7.7343, loss_hard=-6.8274
+(AD train epochs:0)
+time cost 2.7202305793762207 s
+(T) | Epoch=0883, loss=7.7363, loss_hard=-6.8368
+(AD train epochs:0)
+time cost 2.3263227939605713 s
+(T) | Epoch=0884, loss=7.7203, loss_hard=-6.8513
+(AD train epochs:0)
+time cost 2.242643356323242 s
+(T) | Epoch=0885, loss=7.7368, loss_hard=-6.8427
+(AD train epochs:0)
+time cost 2.043073892593384 s
+(T) | Epoch=0886, loss=7.7236, loss_hard=-6.8399
+(AD train epochs:0)
+time cost 2.4744763374328613 s
+(T) | Epoch=0887, loss=7.7306, loss_hard=-6.8467
+(AD train epochs:0)
+time cost 2.532853364944458 s
+(T) | Epoch=0888, loss=7.7396, loss_hard=-6.8398
+(AD train epochs:0)
+time cost 2.351865291595459 s
+(T) | Epoch=0889, loss=7.7336, loss_hard=-6.8354
+(AD train epochs:0)
+time cost 2.4914944171905518 s
+(T) | Epoch=0890, loss=7.7374, loss_hard=-6.8402
+(AD train epochs:0)
+time cost 2.435786247253418 s
+(T) | Epoch=0891, loss=7.7039, loss_hard=-6.8630
+(AD train epochs:0)
+time cost 2.7522079944610596 s
+(T) | Epoch=0892, loss=7.7314, loss_hard=-6.8609
+(AD train epochs:0)
+time cost 2.1274406909942627 s
+(T) | Epoch=0893, loss=7.7297, loss_hard=-6.8377
+(AD train epochs:0)
+time cost 2.2860281467437744 s
+(T) | Epoch=0894, loss=7.7110, loss_hard=-6.8386
+(AD train epochs:0)
+time cost 2.346144437789917 s
+(T) | Epoch=0895, loss=7.7402, loss_hard=-6.8607
+(AD train epochs:0)
+time cost 2.317883014678955 s
+(T) | Epoch=0896, loss=7.7096, loss_hard=-6.8472
+(AD train epochs:0)
+time cost 2.351902723312378 s
+(T) | Epoch=0897, loss=7.7155, loss_hard=-6.8330
+(AD train epochs:0)
+time cost 2.2571213245391846 s
+(T) | Epoch=0898, loss=7.7760, loss_hard=-6.8430
+(AD train epochs:0)
+time cost 2.431299924850464 s
+(T) | Epoch=0899, loss=7.7383, loss_hard=-6.8296
+(AD train epochs:0)
+time cost 2.294857978820801 s
+(T) | Epoch=0900, loss=7.7141, loss_hard=-6.8585
+(AD train epochs:0)
+time cost 2.2168705463409424 s
+(T) | Epoch=0901, loss=7.7255, loss_hard=-6.8417
+(AD train epochs:0)
+time cost 2.0148580074310303 s
+(T) | Epoch=0902, loss=7.7165, loss_hard=-6.8401
+(AD train epochs:0)
+time cost 2.2861721515655518 s
+(T) | Epoch=0903, loss=7.7222, loss_hard=-6.8589
+(AD train epochs:0)
+time cost 2.452366828918457 s
+(T) | Epoch=0904, loss=7.7145, loss_hard=-6.8491
+(AD train epochs:0)
+time cost 2.240234136581421 s
+(T) | Epoch=0905, loss=7.7045, loss_hard=-6.8416
+(AD train epochs:0)
+time cost 2.2841649055480957 s
+(T) | Epoch=0906, loss=7.7285, loss_hard=-6.8433
+(AD train epochs:0)
+time cost 2.644707679748535 s
+(T) | Epoch=0907, loss=7.7123, loss_hard=-6.8838
+(AD train epochs:0)
+time cost 2.3805530071258545 s
+(T) | Epoch=0908, loss=7.7296, loss_hard=-6.8475
+(AD train epochs:0)
+time cost 2.2794480323791504 s
+(T) | Epoch=0909, loss=7.7040, loss_hard=-6.8539
+(AD train epochs:0)
+time cost 2.348871946334839 s
+(T) | Epoch=0910, loss=7.7197, loss_hard=-6.8227
+(AD train epochs:0)
+time cost 2.755465507507324 s
+(T) | Epoch=0911, loss=7.7496, loss_hard=-6.8476
+(AD train epochs:0)
+time cost 2.826658248901367 s
+(T) | Epoch=0912, loss=7.7173, loss_hard=-6.8346
+(AD train epochs:0)
+time cost 2.3743064403533936 s
+(T) | Epoch=0913, loss=7.7358, loss_hard=-6.8602
+(AD train epochs:0)
+time cost 2.0840272903442383 s
+(T) | Epoch=0914, loss=7.7579, loss_hard=-6.8479
+(AD train epochs:0)
+time cost 2.419832468032837 s
+(T) | Epoch=0915, loss=7.7216, loss_hard=-6.8524
+(AD train epochs:0)
+time cost 2.376877784729004 s
+(T) | Epoch=0916, loss=7.7277, loss_hard=-6.8683
+(AD train epochs:0)
+time cost 2.370183229446411 s
+(T) | Epoch=0917, loss=7.7243, loss_hard=-6.8590
+(AD train epochs:0)
+time cost 2.1173746585845947 s
+(T) | Epoch=0918, loss=7.7057, loss_hard=-6.8500
+(AD train epochs:0)
+time cost 2.1734619140625 s
+(T) | Epoch=0919, loss=7.7266, loss_hard=-6.8582
+(AD train epochs:0)
+time cost 2.261972665786743 s
+(T) | Epoch=0920, loss=7.7245, loss_hard=-6.8507
+(AD train epochs:0)
+time cost 2.474447250366211 s
+(T) | Epoch=0921, loss=7.7238, loss_hard=-6.8526
+(AD train epochs:0)
+time cost 2.376192569732666 s
+(T) | Epoch=0922, loss=7.7167, loss_hard=-6.8452
+(AD train epochs:0)
+time cost 2.2153167724609375 s
+(T) | Epoch=0923, loss=7.7455, loss_hard=-6.8369
+(AD train epochs:0)
+time cost 2.4930219650268555 s
+(T) | Epoch=0924, loss=7.7373, loss_hard=-6.8299
+(AD train epochs:0)
+time cost 2.700159788131714 s
+(T) | Epoch=0925, loss=7.7157, loss_hard=-6.8378
+(AD train epochs:0)
+time cost 2.4228193759918213 s
+(T) | Epoch=0926, loss=7.7533, loss_hard=-6.8695
+(AD train epochs:0)
+time cost 2.684856414794922 s
+(T) | Epoch=0927, loss=7.7133, loss_hard=-6.8505
+(AD train epochs:0)
+time cost 2.560429334640503 s
+(T) | Epoch=0928, loss=7.7426, loss_hard=-6.8474
+(AD train epochs:0)
+time cost 2.534388303756714 s
+(T) | Epoch=0929, loss=7.7200, loss_hard=-6.8608
+(AD train epochs:0)
+time cost 2.8990883827209473 s
+(T) | Epoch=0930, loss=7.7234, loss_hard=-6.8438
+(AD train epochs:0)
+time cost 2.391774892807007 s
+(T) | Epoch=0931, loss=7.7314, loss_hard=-6.8502
+(AD train epochs:0)
+time cost 2.4771153926849365 s
+(T) | Epoch=0932, loss=7.7234, loss_hard=-6.8600
+(AD train epochs:0)
+time cost 2.1590969562530518 s
+(T) | Epoch=0933, loss=7.7187, loss_hard=-6.8347
+(AD train epochs:0)
+time cost 2.133166790008545 s
+(T) | Epoch=0934, loss=7.7286, loss_hard=-6.8433
+(AD train epochs:0)
+time cost 2.0257229804992676 s
+(T) | Epoch=0935, loss=7.7390, loss_hard=-6.8602
+(AD train epochs:0)
+time cost 2.3615987300872803 s
+(T) | Epoch=0936, loss=7.7103, loss_hard=-6.8214
+(AD train epochs:0)
+time cost 2.3303399085998535 s
+(T) | Epoch=0937, loss=7.7360, loss_hard=-6.8411
+(AD train epochs:0)
+time cost 2.3240599632263184 s
+(T) | Epoch=0938, loss=7.7514, loss_hard=-6.8216
+(AD train epochs:0)
+time cost 2.6356594562530518 s
+(T) | Epoch=0939, loss=7.7158, loss_hard=-6.8454
+(AD train epochs:0)
+time cost 2.230686902999878 s
+(T) | Epoch=0940, loss=7.7130, loss_hard=-6.8380
+(AD train epochs:0)
+time cost 2.237515449523926 s
+(T) | Epoch=0941, loss=7.6933, loss_hard=-6.8345
+(AD train epochs:0)
+time cost 2.5861315727233887 s
+(T) | Epoch=0942, loss=7.7229, loss_hard=-6.8245
+(AD train epochs:0)
+time cost 2.371185541152954 s
+(T) | Epoch=0943, loss=7.7196, loss_hard=-6.8597
+(AD train epochs:0)
+time cost 2.245546579360962 s
+(T) | Epoch=0944, loss=7.7263, loss_hard=-6.8215
+(AD train epochs:0)
+time cost 2.7219009399414062 s
+(T) | Epoch=0945, loss=7.7330, loss_hard=-6.8248
+(AD train epochs:0)
+time cost 2.4697699546813965 s
+(T) | Epoch=0946, loss=7.7317, loss_hard=-6.8553
+(AD train epochs:0)
+time cost 2.2818660736083984 s
+(T) | Epoch=0947, loss=7.7130, loss_hard=-6.8394
+(AD train epochs:0)
+time cost 2.402747392654419 s
+(T) | Epoch=0948, loss=7.7190, loss_hard=-6.8430
+(AD train epochs:0)
+time cost 2.5436131954193115 s
+(T) | Epoch=0949, loss=7.7193, loss_hard=-6.8479
+(AD train epochs:0)
+time cost 2.490144968032837 s
+(T) | Epoch=0950, loss=7.7117, loss_hard=-6.8326
+(AD train epochs:0)
+time cost 2.292605400085449 s
+(T) | Epoch=0951, loss=7.7070, loss_hard=-6.8547
+(AD train epochs:0)
+time cost 2.4754014015197754 s
+(T) | Epoch=0952, loss=7.7059, loss_hard=-6.8347
+(AD train epochs:0)
+time cost 2.579725503921509 s
+(T) | Epoch=0953, loss=7.7155, loss_hard=-6.8438
+(AD train epochs:0)
+time cost 2.347914218902588 s
+(T) | Epoch=0954, loss=7.7174, loss_hard=-6.8479
+(AD train epochs:0)
+time cost 2.19895601272583 s
+(T) | Epoch=0955, loss=7.7206, loss_hard=-6.8541
+(AD train epochs:0)
+time cost 2.2096221446990967 s
+(T) | Epoch=0956, loss=7.7270, loss_hard=-6.8512
+(AD train epochs:0)
+time cost 2.2674410343170166 s
+(T) | Epoch=0957, loss=7.7048, loss_hard=-6.8493
+(AD train epochs:0)
+time cost 2.0826494693756104 s
+(T) | Epoch=0958, loss=7.7353, loss_hard=-6.8307
+(AD train epochs:0)
+time cost 2.3962931632995605 s
+(T) | Epoch=0959, loss=7.7163, loss_hard=-6.8244
+(AD train epochs:0)
+time cost 2.1696460247039795 s
+(T) | Epoch=0960, loss=7.7280, loss_hard=-6.8607
+(AD train epochs:0)
+time cost 2.580491065979004 s
+(T) | Epoch=0961, loss=7.7299, loss_hard=-6.8462
+(AD train epochs:0)
+time cost 2.240462303161621 s
+(T) | Epoch=0962, loss=7.7435, loss_hard=-6.8597
+(AD train epochs:0)
+time cost 2.0863540172576904 s
+(T) | Epoch=0963, loss=7.7170, loss_hard=-6.8316
+(AD train epochs:0)
+time cost 2.2825517654418945 s
+(T) | Epoch=0964, loss=7.7423, loss_hard=-6.8470
+(AD train epochs:0)
+time cost 2.667851448059082 s
+(T) | Epoch=0965, loss=7.7141, loss_hard=-6.8671
+(AD train epochs:0)
+time cost 2.543084144592285 s
+(T) | Epoch=0966, loss=7.7199, loss_hard=-6.8418
+(AD train epochs:0)
+time cost 2.5333328247070312 s
+(T) | Epoch=0967, loss=7.7262, loss_hard=-6.8463
+(AD train epochs:0)
+time cost 2.4553568363189697 s
+(T) | Epoch=0968, loss=7.7157, loss_hard=-6.8445
+(AD train epochs:0)
+time cost 2.517361879348755 s
+(T) | Epoch=0969, loss=7.7179, loss_hard=-6.8511
+(AD train epochs:0)
+time cost 2.626171588897705 s
+(T) | Epoch=0970, loss=7.7415, loss_hard=-6.8554
+(AD train epochs:0)
+time cost 2.6763851642608643 s
+(T) | Epoch=0971, loss=7.7105, loss_hard=-6.8586
+(AD train epochs:0)
+time cost 2.3582046031951904 s
+(T) | Epoch=0972, loss=7.7080, loss_hard=-6.8711
+(AD train epochs:0)
+time cost 2.9829609394073486 s
+(T) | Epoch=0973, loss=7.7508, loss_hard=-6.8704
+(AD train epochs:0)
+time cost 2.3807806968688965 s
+(T) | Epoch=0974, loss=7.7034, loss_hard=-6.8407
+(AD train epochs:0)
+time cost 2.3157124519348145 s
+(T) | Epoch=0975, loss=7.7096, loss_hard=-6.8823
+(AD train epochs:0)
+time cost 2.430795192718506 s
+(T) | Epoch=0976, loss=7.7234, loss_hard=-6.8903
+(AD train epochs:0)
+time cost 2.077601194381714 s
+(T) | Epoch=0977, loss=7.7389, loss_hard=-6.8386
+(AD train epochs:0)
+time cost 2.1470327377319336 s
+(T) | Epoch=0978, loss=7.7200, loss_hard=-6.8429
+(AD train epochs:0)
+time cost 2.254938840866089 s
+(T) | Epoch=0979, loss=7.7152, loss_hard=-6.8432
+(AD train epochs:0)
+time cost 2.293645143508911 s
+(T) | Epoch=0980, loss=7.7098, loss_hard=-6.8583
+(AD train epochs:0)
+time cost 2.2333545684814453 s
+(T) | Epoch=0981, loss=7.7177, loss_hard=-6.8534
+(AD train epochs:0)
+time cost 2.3640432357788086 s
+(T) | Epoch=0982, loss=7.7196, loss_hard=-6.8513
+(AD train epochs:0)
+time cost 2.0897557735443115 s
+(T) | Epoch=0983, loss=7.7212, loss_hard=-6.8431
+(AD train epochs:0)
+time cost 2.3911690711975098 s
+(T) | Epoch=0984, loss=7.7299, loss_hard=-6.8516
+(AD train epochs:0)
+time cost 2.4601268768310547 s
+(T) | Epoch=0985, loss=7.7401, loss_hard=-6.8486
+(AD train epochs:0)
+time cost 2.205909013748169 s
+(T) | Epoch=0986, loss=7.7198, loss_hard=-6.8519
+(AD train epochs:0)
+time cost 2.515409469604492 s
+(T) | Epoch=0987, loss=7.7113, loss_hard=-6.8838
+(AD train epochs:0)
+time cost 2.275660276412964 s
+(T) | Epoch=0988, loss=7.7264, loss_hard=-6.8707
+(AD train epochs:0)
+time cost 2.683328866958618 s
+(T) | Epoch=0989, loss=7.6983, loss_hard=-6.8609
+(AD train epochs:0)
+time cost 2.3741979598999023 s
+(T) | Epoch=0990, loss=7.7185, loss_hard=-6.8484
+(AD train epochs:0)
+time cost 2.6592652797698975 s
+(T) | Epoch=0991, loss=7.7232, loss_hard=-6.8536
+(AD train epochs:0)
+time cost 2.5977895259857178 s
+(T) | Epoch=0992, loss=7.7097, loss_hard=-6.8508
+(AD train epochs:0)
+time cost 2.458218812942505 s
+(T) | Epoch=0993, loss=7.7350, loss_hard=-6.8577
+(AD train epochs:0)
+time cost 2.574366331100464 s
+(T) | Epoch=0994, loss=7.7328, loss_hard=-6.8579
+(AD train epochs:0)
+time cost 2.4348113536834717 s
+(T) | Epoch=0995, loss=7.7284, loss_hard=-6.8426
+(AD train epochs:0)
+time cost 2.1511342525482178 s
+(T) | Epoch=0996, loss=7.6911, loss_hard=-6.8518
+(AD train epochs:0)
+time cost 2.139455795288086 s
+(T) | Epoch=0997, loss=7.7082, loss_hard=-6.8612
+(AD train epochs:0)
+time cost 2.2599551677703857 s
+(T) | Epoch=0998, loss=7.7100, loss_hard=-6.8644
+(AD train epochs:0)
+time cost 2.4153127670288086 s
+(T) | Epoch=0999, loss=7.7206, loss_hard=-6.8537
+(AD train epochs:0)
+time cost 2.359995126724243 s
+(T) | Epoch=1000, loss=7.7046, loss_hard=-6.8526
+acc:0.7758166491985321

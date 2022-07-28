@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-121-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.0",
+    "heartbeatAt": "2022-07-15T03:46:30.113178",
+    "startedAt": "2022-07-15T03:46:28.546028",
+    "docker": null,
+    "gpu": "GeForce RTX 3090",
+    "gpu_count": 4,
+    "cpu_count": 40,
+    "cuda": "11.0.228",
+    "args": [],
+    "state": "running",
+    "program": "/home/guest/Desktop/kingloon/MCGCL/main copy.py",
+    "codePath": "main copy.py",
+    "git": {
+        "remote": "git@github.com:kingloon/MCGCL.git",
+        "commit": "822732b67c3c4adbda233fb9b55c6a1506be74f5"
+    },
+    "email": null,
+    "root": "/home/guest/Desktop/kingloon/MCGCL",
+    "host": "guest-server",
+    "username": "root",
+    "executable": "/home/guest/.conda/envs/General_env/bin/python"
+}

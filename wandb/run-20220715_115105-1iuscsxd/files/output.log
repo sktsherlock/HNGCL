@@ -1,0 +1,26 @@
+Processing...
+Traceback (most recent call last):
+  File "/home/guest/Desktop/kingloon/MCGCL/main copy.py", line 240, in <module>
+    dataset = get_dataset(path, args.dataset)
+  File "/home/guest/Desktop/kingloon/MCGCL/pHNGCL/dataset.py", line 21, in get_dataset
+    return WikiCS(root=path, transform=T.NormalizeFeatures())
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/site-packages/torch_geometric/datasets/wikics.py", line 29, in __init__
+    super(WikiCS, self).__init__(root, transform, pre_transform)
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/site-packages/torch_geometric/data/in_memory_dataset.py", line 57, in __init__
+    super().__init__(root, transform, pre_transform, pre_filter)
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/site-packages/torch_geometric/data/dataset.py", line 88, in __init__
+    self._process()
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/site-packages/torch_geometric/data/dataset.py", line 171, in _process
+    self.process()
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/site-packages/torch_geometric/datasets/wikics.py", line 46, in process
+    data = json.load(f)
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/json/__init__.py", line 296, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/guest/.conda/envs/General_env/lib/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2022-07-15 11:51:11] WARNING (root/Thread-12) The OGB package is out of date. Your version is 1.3.2, while the latest version is 1.3.3.

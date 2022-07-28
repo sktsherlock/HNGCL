@@ -1,0 +1,28 @@
+[2022-07-17 18:05:08] WARNING (root/Thread-2) The OGB package is out of date. Your version is 1.3.2, while the latest version is 1.3.3.
+(AD train epochs:0)
+(T) | Epoch=0001, loss_hard=-9.7949, loss_dis=0.3865
+(AD train epochs:21)
+(T) | Epoch=0002, loss_hard=-9.0925, loss_dis=0.4578
+(AD train epochs:25)
+(T) | Epoch=0003, loss_hard=-9.1191, loss_dis=0.4996
+(AD train epochs:3)
+(T) | Epoch=0004, loss_hard=-9.0917, loss_dis=0.5038
+(AD train epochs:0)
+(T) | Epoch=0005, loss_hard=-9.1084, loss_dis=0.4999
+(AD train epochs:0)
+(T) | Epoch=0006, loss_hard=-9.1093, loss_dis=0.5120
+(AD train epochs:0)
+(T) | Epoch=0007, loss_hard=-9.0988, loss_dis=0.5077
+(AD train epochs:0)
+(T) | Epoch=0008, loss_hard=-9.1195, loss_dis=0.5147
+(AD train epochs:0)
+(T) | Epoch=0009, loss_hard=-9.1331, loss_dis=0.5164
+(AD train epochs:0)
+(T) | Epoch=0010, loss_hard=-9.1247, loss_dis=0.5177
+(AD train epochs:0)
+Traceback (most recent call last):
+  File "/home/guest/Desktop/kingloon/MCGCL/main copy.py", line 435, in <module>
+    loss_hard_1, loss_dis_1 = train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, False)
+  File "/home/guest/Desktop/kingloon/MCGCL/main copy.py", line 138, in train_hard
+    return loss.item(), loss_Dis.item()
+UnboundLocalError: local variable 'loss_Dis' referenced before assignment

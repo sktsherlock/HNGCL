@@ -1,0 +1,7 @@
+[2022-07-21 09:37:09] WARNING (root/Thread-2) The OGB package is out of date. Your version is 1.3.2, while the latest version is 1.3.3.
+Traceback (most recent call last):
+  File "/home/guest/Desktop/kingloon/MCGCL/main copy.py", line 284, in <module>
+    feature_graph_edge_index = generate_feature_graph_edge_index(data.x, param['k']).to(device)
+  File "/home/guest/Desktop/kingloon/MCGCL/pHNGCL/utils.py", line 95, in generate_feature_graph_edge_index
+    sim_index = sim.argsort(descending=True, dim = 1)
+RuntimeError: CUDA out of memory. Tried to allocate 8.87 GiB (GPU 3; 23.70 GiB total capacity; 19.90 GiB already allocated; 2.30 GiB free; 19.92 GiB reserved in total by PyTorch)
