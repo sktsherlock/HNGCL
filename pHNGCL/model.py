@@ -13,17 +13,17 @@ import gc
 from torch_geometric.utils import num_nodes
 
 
-def ADloss(z1, hard):
-    device = z1.device
-    hard_batch = hard.size()[0]
-    num_nodes = z1.size()[0] #所有节点个数
-    index = np.arange(num_nodes)
-    random.shuffle(index) #打乱所有顺序
-    mask = torch.tensor(index[:hard_batch], dtype=torch.long).to(device)
-    loss = nn.MSELoss()
-    losses = loss(z1[mask], hard)
+# def ADloss(z1, hard):
+#     device = z1.device
+#     hard_batch = hard.size()[0]
+#     num_nodes = z1.size()[0] #所有节点个数
+#     index = np.arange(num_nodes)
+#     random.shuffle(index) #打乱所有顺序
+#     mask = torch.tensor(index[:hard_batch], dtype=torch.long).to(device)
+#     loss = nn.MSELoss()
+#     losses = loss(z1[mask], hard)
 
-    return losses
+#     return losses
 
 def Dis(Discriminator, z, hard):
     device = z.device
@@ -35,8 +35,12 @@ def Dis(Discriminator, z, hard):
 
     z_label = Discriminator(z[mask])
     hard_label = Discriminator(hard)
-    loss = nn.MSELoss(reduction='mean')
-    losses = loss(z_label, hard_label)
+    z_label_l = z_label.detach()
+    hard_label_l  = hard_label.detach()
+    #targets = targets.detach()
+    #loss = nn.MSELoss(reduction='mean') #TODO 
+    loss = nn.BCELoss(reduction= 'mean')
+    losses = (loss(hard_label, z_label_l) + loss(z_label,hard_label_l) ) / 2 
     return losses
 
 class Discriminator(nn.Module):
@@ -44,7 +48,7 @@ class Discriminator(nn.Module):
         super(Discriminator, self).__init__()
         self.fcs = nn.Sequential(
             nn.Linear(in_channels, hidden_channels),
-            nn.PReLU(),
+            nn.PReLU(), 
             nn.Linear(hidden_channels, hidden_channels),
             nn.PReLU(),
             nn.Linear(hidden_channels, out_channels),
@@ -173,10 +177,11 @@ class HNGCL(torch.nn.Module):
         #print(source.shape) #256,256,1
         source = torch.bmm(source, z1) #矩阵乘法 256, 256, 128 1*128的元素变成了256倍。
         #256,hard_sample_num,128#print(source.shape) 
-        #hard_neg_samples = self.alpha * source + (1 - self.alpha) * x[mask] #先拓维
-        alpha = torch.mm( F.normalize(z),  F.normalize(x[mask]).t())  
+        hard_neg_samples = self.alpha * source + (1 - self.alpha) * x[mask] #先拓维
         
-        hard_neg_samples = alpha * source + (1 - alpha) * x[mask]
+        #alpha = torch.mm( F.normalize(z),  F.normalize(x[mask]).t())  
+        #hard_neg_samples = alpha * source + (1 - alpha) * x[mask]
+        
         #hard_neg_samples = self.alpha * source + (1 - self.alpha) * 
         #256,128
         #print(hard_neg_samples,hard_neg_samples.shape)

@@ -3,6 +3,7 @@
     "num_hidden": 256,
     "num_proj_hidden": 256,
     "AD_rate": 0.01,
+    "num_warmup": 10,
     "activation": "prelu",
     "k": 12,
     "drop_edge_rate_1": 0.2,
@@ -11,5 +12,6 @@
     "drop_feature_rate_2": 0.3,
     "tau": 0.3,
     "alpha": 0.1,
-    "num_epochs": 1000
+    "num_epochs": 1000,
+    "hard_num": 512     
 }

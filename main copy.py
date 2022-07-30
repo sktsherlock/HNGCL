@@ -72,7 +72,7 @@ def train(feature_graph_edge_index, drop_weights1, drop_weights2):
 
     return loss.item()
 
-def train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, train_dis):
+def train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, traih_warmup, train_dis):
 
 
     def drop_edge(idx: int, edge_index, drop_weights):
@@ -95,23 +95,37 @@ def train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, train_dis
     z1 = model(x_1, edge_index_1)
     z2 = model(x_2, edge_index_2)
     
-    for i in range(10):
+    if traih_warmup == True:
+        for i in range(10): #参数
+            discriminator.requires_grad_(False)
+            model.requires_grad_(False)
+            ADNet.requires_grad_(True)
+            ADNet.train()
+            #ADNet.requires_grad=True
+            ADNet_optimizer.zero_grad()
+            z3 = ADNet(x_1, edge_index_1)
+            z3 = ADNet.Generate_hard(z1, z3)
+            # z1 11701,128
+            loss = - model.loss(z1, z2, z3, batch_size=256) + param['beta'] * Dis(discriminator ,z1, z3) # beta
+            loss.backward(retain_graph=True)
+            ADNet_optimizer.step()
+            if Dis(discriminator ,z1, z3) < 0.5: # 判别条件
+                print(f'(AD train epochs:{i})')
+                break
+    else:
         discriminator.requires_grad_(False)
-        model.requires_grad_(False)
+        model.requires_grad_(True)
         ADNet.requires_grad_(True)
-        ADNet.train
-        #ADNet.requires_grad=True
         ADNet_optimizer.zero_grad()
+        model_optimizer.zero_grad()
         z3 = ADNet(x_1, edge_index_1)
         z3 = ADNet.Generate_hard(z1, z3)
-        # z1 11701,128
-        loss = - model.loss(z1, z2, z3, batch_size=256) + 2 * Dis(discriminator ,z1, z3)  #ADNet.ADloss(z1, z3) + ADNet.ADloss(z2, z3) 
-        #print(Dis(discriminator ,z1, z3))
+        loss = - model.loss(z1, z2, z3, batch_size=256) #+ param['beta'] * Dis(discriminator ,z1, z3)
         loss.backward(retain_graph=True)
         ADNet_optimizer.step()
-        if Dis(discriminator ,z1, z3) < 0.5:
-            print(f'(AD train epochs:{i})')
-            break
+        model_optimizer.step()
+        
+        
     
     
     if train_dis:
@@ -225,7 +239,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset', type=str, default='WikiCS')
     parser.add_argument('--param', type=str, default='local:wikics.json')
     # parser.add_argument('--seed', type=int, default=39788)
-    parser.add_argument('--seed', type=int, default=120546  )
+    parser.add_argument('--seed', type=int, default=120546 )
     parser.add_argument('--verbose', type=str, default='train,eval,final')
     parser.add_argument('--save_split', type=str, nargs='?')
     parser.add_argument('--load_split', type=str, nargs='?')
@@ -251,7 +265,8 @@ if __name__ == '__main__':
         'num_warmup': 10, 
         'weight_decay': 1e-5,
         'drop_scheme': 'degree',
-        'hard_num': 512
+        'hard_num': 512,
+        'beta': 2
     }
 
     # add hyper-parameters into parser
@@ -299,7 +314,7 @@ if __name__ == '__main__':
     #     weight_decay=param['weight_decay']
     # )
     
-    discriminator = Discriminator(param['num_hidden'], param['num_proj_hidden'], 2).to(device)
+    discriminator = Discriminator(param['num_hidden'], param['num_proj_hidden'], 1).to(device)
     discriminator_optimizer = torch.optim.Adam(
         discriminator.parameters(),
         lr=param['learning_rate'],
@@ -414,22 +429,16 @@ if __name__ == '__main__':
     #     plot_embedding(dataset[0].y.view(-1))
     # fb.close()
 
-    
-    # if epoch % 2:
-    #     loss = train(feature_graph_edge_index, drop_weights1, drop_weights2, args)
-    #     loss_hard = 0
-    # else:
-    #     loss = 0
-    #     loss_hard = train_hard(model,hard_optimizer,feature_graph_edge_index, drop_weights1, drop_weights2).
+
     for epoch in range (1, param['num_warmup'] + 1):
-        loss_hard = train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, True)
+        loss_hard = train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, True,True)
         print(f'(T) | Epoch={epoch:04d}, loss_hard={loss_hard:.4f}')
         
     for epoch in range(1, param['num_epochs'] + 1):
         time_start = time.time()
         loss = train(feature_graph_edge_index, drop_weights1, drop_weights2)
         
-        loss_hard_1 = train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, False)
+        loss_hard_1 = train_hard(feature_graph_edge_index, drop_weights1, drop_weights2, True,False)
         
         #loss_hard = train_hard(model,hard_optimizer,feature_graph_edge_index, drop_weights1, drop_weights2)
         #loss_hard = train(model, hard_generator, feature_graph_edge_index, drop_weights1, drop_weights2, args, hard=True)
